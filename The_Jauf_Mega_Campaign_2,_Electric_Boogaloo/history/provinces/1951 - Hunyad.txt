@@ -1,0 +1,25 @@
+owner = SER
+controller = SER
+capital = "Alba Iulia"
+is_city = yes
+culture = hungarian
+religion = magyar_pagan
+trade_goods = iron
+fort_15th = yes
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = HUN
+add_core = SER
+discovered_by = AST
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = KAZ
+discovered_by = QAS
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+latent_trade_goods = {
+	coal
+}

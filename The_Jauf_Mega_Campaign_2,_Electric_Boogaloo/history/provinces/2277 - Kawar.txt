@@ -1,0 +1,16 @@
+owner = Z0K
+controller = Z0K
+capital = "Kawar"
+is_city = yes
+culture = zaghawa
+religion = ibadi
+trade_goods = salt
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = Z0J
+add_core = Z0K
+discovered_by = sub_saharan
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

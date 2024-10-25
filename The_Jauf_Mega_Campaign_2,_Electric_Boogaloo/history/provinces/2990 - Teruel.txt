@@ -1,0 +1,16 @@
+owner = ARA
+controller = ARA
+capital = "Teruel"
+is_city = yes
+culture = andalucian
+religion = sunni
+trade_goods = iron
+base_tax = 4
+base_production = 3
+base_manpower = 2
+add_core = ARA
+add_core = GRA
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

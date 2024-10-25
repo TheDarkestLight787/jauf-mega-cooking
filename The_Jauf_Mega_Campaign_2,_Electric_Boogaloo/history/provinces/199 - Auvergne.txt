@@ -1,0 +1,19 @@
+owner = BUR
+controller = BUR
+capital = "Clermont"
+is_city = yes
+culture = occitain
+religion = jewish
+trade_goods = iron
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = BUR
+add_core = PRO
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+latent_trade_goods = {
+	coal
+}

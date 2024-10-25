@@ -1,0 +1,14 @@
+owner = ETH
+controller = ETH
+capital = "Gambela"
+is_city = yes
+culture = nubian
+religion = converted_egyptian_faith
+trade_goods = slaves
+base_tax = 1
+base_production = 1
+base_manpower = 3
+add_core = ETH
+add_core = NUB
+discovered_by = east_african
+discovered_by = muslim

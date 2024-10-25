@@ -1,0 +1,112 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 227 211 34 }
+revolutionary_colors = { 0 1 0 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	administrative_ideas
+	spy_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Arngrímr #0" = 0
+	"Balduin #0" = 0
+	"Benno #0" = 0
+	"Bernd #0" = 0
+	"Bertram #0" = 0
+	"Dedo #0" = 0
+	"Dobrava #0" = -1
+	"Donka #0" = -1
+	"Gerðr #0" = -1
+	"Gevert #0" = 0
+	"Gríma #0" = -1
+	"Hrani #1" = 10
+	"Hrólfr #1" = 10
+	"Raina #0" = -1
+	"Richfrid #1" = 10
+	"Rimbert #1" = 10
+	"Rycheza #0" = -1
+	"Skjaldvör #0" = -1
+	"Steyn #1" = 10
+	"Tuulikki #0" = -1
+}
+leader_names = {
+	"Adler"
+	"Alers"
+	"Bake"
+	"Beckröge"
+	"Bergius"
+	"Berninghausen"
+	"Boelken"
+	"Bollheim"
+	"Brill"
+	"Delius"
+	"Drewers"
+	"Engels"
+	"Ficke"
+	"Foukhard"
+	"Geffken"
+	"Gildemeister"
+	"Grovermann"
+	"Happach"
+	"Heimbruch"
+	"Hinke"
+	"Kindt"
+	"Krefting"
+	"Köhne"
+	"Laporte"
+	"Löning"
+	"Meyer"
+	"Oelrichs"
+	"Ordemann"
+	"Reiners"
+	"Rohde"
+	"Sanders"
+	"Schulken"
+	"Steinwachs"
+	"Stucken"
+	"Truernitt"
+	"von Bobert"
+	"von Cappeln"
+	"von Holten"
+	"von Horn"
+	"von Meinertzhagen"
+}
+ship_names = {
+	"Bremer Schlüssel"
+	"Bremer Stolz"
+	"Geelbeen"
+	"Honorius"
+	"Jever"
+	"Johann Dove"
+	"Roland"
+	"Tagenbare"
+	"Wappen von Bremen"
+	"Weserwelle"
+	"Willehad"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+	"Erzbischofliche Garde"
+}
+preferred_religion = protestant

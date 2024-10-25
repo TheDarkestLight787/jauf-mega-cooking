@@ -1,0 +1,12 @@
+owner = HAU
+controller = HAU
+capital = "Birnin Yawuri"
+is_city = yes
+culture = hausa
+religion = shamanism
+trade_goods = coffee
+base_tax = 1
+base_production = 2
+base_manpower = 2
+add_core = HAU
+discovered_by = sub_saharan

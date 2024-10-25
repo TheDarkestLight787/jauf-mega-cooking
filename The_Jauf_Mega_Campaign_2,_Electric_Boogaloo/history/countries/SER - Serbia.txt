@@ -1,0 +1,42 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = eastern
+religion = converted_dynamic_faith_112
+primary_culture = bulgarian
+capital = 158
+add_accepted_culture = hungarian
+1444.11.11= {
+	monarch = {
+		name = "Rositsa"
+		dynasty = "ot Nikopolis"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1392.12.3
+		female = yes
+		religion = converted_dynamic_faith_112
+		culture = bulgarian
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	heir = {
+		name = "Soimir"
+		monarch_name = "Soimir"
+		dynasty = "ot Nikopolis"
+		adm = 6
+		dip = 4
+		mil = 5
+		birth_date = 1426.4.7
+		death_date = 1491.4.7
+		claim = 89
+		religion = converted_dynamic_faith_112
+		culture = bulgarian
+	}
+	add_heir_personality = craven_personality
+	add_heir_personality = free_thinker_personality
+}
+1444.11.11= {
+	add_prestige = 73
+	add_treasury = -2
+}

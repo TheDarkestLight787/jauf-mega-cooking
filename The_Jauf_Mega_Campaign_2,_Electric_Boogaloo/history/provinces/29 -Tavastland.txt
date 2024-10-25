@@ -1,0 +1,13 @@
+owner = FIN
+controller = FIN
+capital = "Tavastehus"
+is_city = yes
+culture = finnish
+religion = converted_dynamic_faith_115
+trade_goods = fur
+base_tax = 3
+base_production = 1
+base_manpower = 2
+add_core = FIN
+discovered_by = eastern
+discovered_by = western

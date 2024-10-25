@@ -1,0 +1,16 @@
+owner = MSI
+controller = MSI
+capital = "Tenkodogo"
+is_city = yes
+culture = aka
+religion = shamanism
+trade_goods = livestock
+base_tax = 1
+base_production = 1
+base_manpower = 3
+add_core = ASH
+add_core = MSI
+discovered_by = sub_saharan
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

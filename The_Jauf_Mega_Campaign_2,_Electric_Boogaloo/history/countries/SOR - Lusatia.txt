@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = feudal_tribe
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = sorbian
+capital = 59
+1444.11.11= {
+	monarch = {
+		name = "Krzeslaw"
+		dynasty = "z Milczanów"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1401.7.25
+		religion = catholic
+		culture = sorbian
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Salomea"
+		dynasty = "Sorbi"
+		adm = 2
+		dip = 3
+		mil = 2
+		country_of_origin = SOR
+		birth_date = 1401.5.8
+		death_date = 1461.5.8
+		female = yes
+		religion = slavic_pagan
+		culture = sorbian
+	}
+	add_queen_personality = strict_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Drosuk"
+		monarch_name = "Drosuk"
+		dynasty = "z Milczanów"
+		adm = 2
+		dip = 1
+		mil = 1
+		birth_date = 1437.7.4
+		death_date = 1502.7.4
+		claim = 89
+		religion = catholic
+		culture = sorbian
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11= {
+	add_prestige = 74
+	add_treasury = 51
+}

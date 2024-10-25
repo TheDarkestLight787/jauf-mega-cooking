@@ -1,0 +1,13 @@
+owner = YAT
+controller = YAT
+capital = "Douentza"
+is_city = yes
+culture = mali
+religion = shamanism
+trade_goods = ivory
+base_tax = 1
+base_production = 1
+base_manpower = 3
+add_core = MAL
+add_core = YAT
+discovered_by = sub_saharan

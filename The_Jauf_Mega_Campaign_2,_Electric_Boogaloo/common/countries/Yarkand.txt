@@ -1,0 +1,125 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 255 245 220 }
+revolutionary_colors = { 0 8 0 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	chinese_dragoon
+	chinese_footsoldier
+	chinese_longspear
+	chinese_steppe
+	eastern_bow
+	han_banner
+	manchu_banner
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+	reformed_manchu_rifle
+}
+monarch_names = {
+	"Alsamgya #0" = -1
+	"Alysanna #0" = 0
+	"Amala #1" = 10
+	"Ananta #2" = 10
+	"Andara #1" = 10
+	"Annaladevi #0" = -1
+	"Balaprasada #0" = 0
+	"Bhuyikadevi #0" = -1
+	"Dharma #3" = 10
+	"Dharmadasi #0" = -1
+	"Dhondhros #1" = 10
+	"Erdewan #0" = 0
+	"Gandharavati #0" = -1
+	"Gulai #0" = 0
+	"Gyimsheng #0" = -1
+	"Hvarda #1" = 10
+	"Jajahasa #0" = 0
+	"Jaya #4" = 10
+	"Jotsé #0" = 0
+	"Khemeg #1" = 10
+	"Khivyaina #0" = -1
+	"Kirti #4" = 10
+	"Kirtti #1" = 10
+	"Kriti #0" = 0
+	"Maya #0" = -1
+	"Mukundanarayan #0" = 0
+	"Murlimin #0" = 0
+	"Nakshatra #1" = 10
+	"Nanda #0" = -1
+	"Pala #3" = 10
+	"Pertal #0" = -1
+	"Quyi #0" = -1
+	"Rupadevi #0" = -1
+	"Safali #0" = -1
+	"Saigrama #2" = 10
+	"Sambhava #2" = 10
+	"Sangrama #6" = 10
+	"Sata #2" = 10
+	"Satra #1" = 10
+	"Sayausa #0" = 0
+	"Shandramata #0" = -1
+	"Shima #2" = 10
+	"Shinganca #0" = 0
+	"Shirvamdai #0" = 0
+	"Sidaka #0" = 0
+	"Simha #3" = 10
+	"Sudha #0" = -1
+	"Tisyarakshita #0" = -1
+	"Vahana #2" = 10
+	"Vidakai #0" = 0
+	"Vikarma #2" = 10
+	"Vikrama #0" = 0
+	"Virsha #0" = 0
+	"Yavalac #0" = -1
+}
+leader_names = {
+	"Altan Unegen"
+	"Altanqai"
+	"Arigh Erdene"
+	"Bayan Vachir"
+	"Bayardai"
+	"Boke Qorchi"
+	"Boketei"
+	"Delger Dash"
+	"Qadancher"
+	"Suren Chinua"
+	"Tegusteni"
+	"Tolui-gene"
+	"Yekedai"
+}
+ship_names = {
+	"Alghu Khan"
+	"Amir Husayn"
+	"Amo Darya"
+	"Baraq Khan"
+	"Chagatai"
+	"Duwa"
+	"Genghis Khan"
+	"Güyük"
+	"Irtysh"
+	"Jagatai Khan"
+	"Mubarak Shah"
+	"Möngke Khan"
+	"Orghina"
+	"Qazan Khan"
+	"Qipchaq"
+	"Qubilai Khan"
+	"Samarqand"
+	"Syr Darya"
+	"Timur i Leng"
+	"Tughlugh Timur"
+	"Yesünto'a"
+	"Ögedai Khan"
+}

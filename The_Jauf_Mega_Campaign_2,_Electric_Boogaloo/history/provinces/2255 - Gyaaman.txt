@@ -1,0 +1,13 @@
+owner = Z03
+controller = Z03
+capital = "Amanvi"
+is_city = yes
+culture = aka
+religion = shamanism
+trade_goods = coffee
+base_tax = 1
+base_production = 1
+base_manpower = 3
+add_core = ASH
+add_core = Z03
+discovered_by = sub_saharan

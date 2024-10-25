@@ -1,0 +1,133 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 67 124 181 }
+revolutionary_colors = { 6 8 6 }
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	defensive_ideas
+	quality_ideas
+	trade_ideas
+	economic_ideas
+	spy_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_arquebusier
+	indian_footsoldier
+	indian_shock_cavalry
+	maharathan_cavalry
+	maharathan_guerilla_warfare
+	mughal_musketeer
+	rajput_hill_fighters
+	reformed_mughal_musketeer
+	sikh_rifle
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Anandibai #0" = -1
+	"Avinita #0" = 0
+	"Bhuyikadevi #0" = -1
+	"Chandrabbalabbe #0" = -1
+	"Damayanti #0" = -1
+	"Durgasimha #0" = 0
+	"Ereganga #0" = 0
+	"Gangambika #0" = -1
+	"Gangaraja #0" = 0
+	"Hakka #0" = 0
+	"Kambarasa #1" = 10
+	"Konganivarman #0" = 0
+	"Krishnadevaraya #0" = 0
+	"Kundakadevi #0" = -1
+	"Lakshmi #0" = -1
+	"Mahadevi #0" = -1
+	"Mahadik #0" = -1
+	"Mahadji #0" = 0
+	"Mahâdeviyâr #0" = -1
+	"Mailaladevi #0" = -1
+	"Marulaganga #0" = 0
+	"Nirmala #0" = -1
+	"Periyanâcci #0" = -1
+	"Pertal #0" = -1
+	"Purandaradasa #0" = 0
+	"Rachamalla #0" = 0
+	"Revakanimmadi #0" = -1
+	"Sanyukta #0" = -1
+	"Shivamara #0" = 0
+	"Someshvara #0" = 0
+	"Sriranga #0" = 0
+	"Tailapa #0" = 0
+	"Thimma #1" = 10
+	"Vishnuvardhana #0" = 0
+}
+leader_names = {
+	"Aher"
+	"Bhat"
+	"Bhoit"
+	"Bhonsle"
+	"Chavan"
+	"Dabhad"
+	"Gaikwad"
+	"Gujar"
+	"Holkar"
+	"Jadhav"
+	"Jagtap"
+	"Kadam"
+	"Kate"
+	"Kaushal"
+	"Khursh"
+	"Krishnamma"
+	"Lolaksi"
+	"Malusare"
+	"Maruthi"
+	"Moit"
+	"Moray"
+	"Nagaraj"
+	"Narsala"
+	"Nikam"
+	"Nimbalk"
+	"Palkar"
+	"Pawar"
+	"Ramiah"
+	"Rane"
+	"Satavahana"
+	"Sawant"
+	"Shinde"
+	"Shirke"
+	"Yadava"
+}
+ship_names = {
+	"Agni"
+	"Bhim"
+	"Brahma"
+	"Devi"
+	"Durga"
+	"Ganesh"
+	"Gayatri"
+	"Hanumaun"
+	"Indra"
+	"Jalsena"
+	"Kala Jahazi"
+	"Kali"
+	"Krishna"
+	"Kubera"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Parvati"
+	"Radha"
+	"Ratri"
+	"Sagar"
+	"Sarasvati"
+	"Shiva"
+	"Sita"
+	"Soma"
+	"Surya"
+	"Varuna"
+	"Vayu"
+	"Vishnu"
+	"Yama"
+}

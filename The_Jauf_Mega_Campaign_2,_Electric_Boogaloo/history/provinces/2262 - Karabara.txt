@@ -1,0 +1,13 @@
+owner = GUR
+controller = GUR
+capital = "Karabara"
+is_city = yes
+culture = bozo
+religion = shamanism
+trade_goods = fish
+base_tax = 1
+base_production = 1
+base_manpower = 3
+add_core = GUR
+add_core = JNN
+discovered_by = sub_saharan

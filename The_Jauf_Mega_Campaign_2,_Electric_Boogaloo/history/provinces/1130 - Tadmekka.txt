@@ -1,0 +1,13 @@
+owner = Z3R
+controller = Z3R
+capital = "Tadmekka al-Suq"
+is_city = yes
+culture = berber
+religion = ibadi
+trade_goods = wool
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = TLC
+add_core = Z3R
+discovered_by = sub_saharan

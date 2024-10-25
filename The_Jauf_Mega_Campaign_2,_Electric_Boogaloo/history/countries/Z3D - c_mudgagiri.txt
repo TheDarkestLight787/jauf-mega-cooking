@@ -1,0 +1,13 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = indian
+religion = converted_dynamic_faith_114
+primary_culture = dynamic-bengali-magogic-culture-num1
+capital = 563
+fixed_capital = 563
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	add_prestige = 56
+	add_treasury = 51
+}

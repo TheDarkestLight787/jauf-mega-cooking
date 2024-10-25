@@ -1,0 +1,15 @@
+owner = Z0E
+controller = Z0E
+capital = "Yur"
+is_city = yes
+culture = uralic
+religion = tengri_pagan
+trade_goods = grain
+base_tax = 3
+base_production = 2
+base_manpower = 2
+add_core = Z0E
+discovered_by = GOL
+discovered_by = eastern
+discovered_by = nomad_group
+discovered_by = western

@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = avadhi
+capital = 2078
+add_accepted_culture = panjabi
+1444.11.11= {
+	monarch = {
+		name = "Anangpala"
+		dynasty = "Anangpalid"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1403.4.14
+		religion = hinduism
+		culture = avadhi
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = silver_tongue_personality
+	queen = {
+		name = "Lhamo"
+		dynasty = "Dzayul"
+		adm = 1
+		dip = 4
+		mil = 1
+		country_of_origin = PUN
+		birth_date = 1397.3.8
+		death_date = 1457.3.8
+		female = yes
+		religion = hinduism
+		culture = nepali
+	}
+	add_queen_personality = silver_tongue_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Anangpala"
+		monarch_name = "Anangpala II"
+		dynasty = "Anangpalid"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1421.12.5
+		death_date = 1486.12.5
+		claim = 89
+		religion = hinduism
+		culture = avadhi
+	}
+	add_heir_personality = benevolent_personality
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11= {
+	add_prestige = 79
+	add_treasury = 58
+}

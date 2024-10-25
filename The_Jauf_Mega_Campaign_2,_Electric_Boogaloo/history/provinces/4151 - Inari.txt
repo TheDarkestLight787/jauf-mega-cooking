@@ -1,0 +1,14 @@
+owner = SCA
+controller = SCA
+capital = "Sodankylä"
+is_city = yes
+culture = sapmi
+religion = converted_dynamic_faith_115
+trade_goods = fur
+base_tax = 2
+base_production = 2
+base_manpower = 2
+add_core = SCA
+add_core = SMI
+discovered_by = eastern
+discovered_by = western

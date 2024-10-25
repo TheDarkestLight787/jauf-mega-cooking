@@ -1,0 +1,15 @@
+owner = HAM
+controller = HAM
+capital = "Lauenburg"
+is_city = yes
+culture = dynamic-norse-saxon-culture-num1
+religion = converted_dynamic_faith_115
+trade_goods = salt
+base_tax = 1
+base_production = 3
+base_manpower = 1
+add_core = HAM
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

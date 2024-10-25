@@ -1,0 +1,13 @@
+owner = KAS
+controller = KAS
+capital = "Keriya"
+is_city = yes
+culture = saka
+religion = mahayana
+trade_goods = wool
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = KAS
+discovered_by = chinese
+discovered_by = nomad_group

@@ -1,0 +1,14 @@
+owner = Z2H
+controller = Z2H
+capital = "Kuqa"
+is_city = yes
+culture = tocharian
+religion = manichean
+trade_goods = gold
+base_tax = 3
+base_production = 5
+base_manpower = 2
+add_core = Z2H
+add_core = Z36
+discovered_by = chinese
+discovered_by = nomad_group

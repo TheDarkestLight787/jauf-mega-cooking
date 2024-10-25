@@ -1,0 +1,14 @@
+owner = Z2C
+controller = Z2C
+capital = "Nedong"
+is_city = yes
+culture = tibetan
+religion = vajrayana
+trade_goods = grain
+base_tax = 5
+base_production = 3
+base_manpower = 4
+add_core = Z2C
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

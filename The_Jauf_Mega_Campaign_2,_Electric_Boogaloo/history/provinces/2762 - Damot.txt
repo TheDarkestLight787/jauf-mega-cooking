@@ -1,0 +1,14 @@
+owner = ETH
+controller = ETH
+capital = "Nekemte"
+is_city = yes
+culture = dynamic-sidamo-culture-num1
+religion = converted_egyptian_faith
+trade_goods = gold
+base_tax = 1
+base_production = 1
+base_manpower = 3
+add_core = ETH
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 1
+technology_group = indian
+religion = jain
+primary_culture = marathi
+capital = 545
+mercantilism = 15
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Bhillama III"
+		dynasty = "Seuna Yadava"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1397.1.9
+		religion = jain
+		culture = marathi
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Kundakadevi"
+		dynasty = "Indrid"
+		adm = 3
+		dip = 4
+		mil = 2
+		country_of_origin = Z13
+		birth_date = 1399.12.31
+		death_date = 1459.12.31
+		female = yes
+		religion = hinduism
+		culture = kannada
+	}
+	add_queen_personality = malevolent_personality
+	add_queen_personality = obsessive_perfectionist_personality
+	heir = {
+		name = "Bhillama"
+		monarch_name = "Bhillama IV"
+		dynasty = "Seuna Yadava"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1420.2.27
+		death_date = 1485.2.27
+		claim = 89
+		religion = jain
+		culture = marathi
+	}
+	add_heir_personality = kind_hearted_personality
+	add_heir_personality = tolerant_personality
+}
+1444.11.11= {
+	add_prestige = 73
+	add_treasury = 48
+}

@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = sub_saharan
+religion = converted_dynamic_faith_113
+primary_culture = mali
+capital = 1119
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Barakissa"
+		dynasty = "Konyan"
+		adm = 1
+		dip = 3
+		mil = 2
+		birth_date = 1380.5.8
+		female = yes
+		religion = converted_dynamic_faith_113
+		culture = mali
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = drunkard_personality
+	queen = {
+		name = "Gboto"
+		dynasty = "Bulom"
+		adm = 2
+		dip = 4
+		mil = 3
+		country_of_origin = Z21
+		birth_date = 1382.1.25
+		death_date = 1442.1.25
+		religion = converted_dynamic_faith_113
+		culture = senegambian
+	}
+	add_queen_personality = martial_educator_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Pese"
+		monarch_name = "Pese"
+		dynasty = "Bulom"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1417.1.24
+		death_date = 1482.1.24
+		claim = 89
+		religion = converted_dynamic_faith_113
+		culture = mali
+	}
+	add_heir_personality = martial_educator_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 79
+	add_treasury = 53
+}

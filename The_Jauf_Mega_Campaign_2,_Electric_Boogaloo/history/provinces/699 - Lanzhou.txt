@@ -1,0 +1,14 @@
+owner = Z1W
+controller = Z1W
+capital = "Lanzhou"
+is_city = yes
+culture = xibei
+religion = jain
+trade_goods = grain
+base_tax = 7
+base_production = 3
+base_manpower = 2
+add_core = CSH
+add_core = Z1W
+discovered_by = chinese
+discovered_by = nomad_group

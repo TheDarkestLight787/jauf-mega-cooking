@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = avadhi
+capital = 504
+add_accepted_culture = sindhi
+1444.11.11= {
+	monarch = {
+		name = "Udayaditya"
+		dynasty = "Udayadityid"
+		adm = 5
+		dip = 4
+		mil = 6
+		birth_date = 1378.3.6
+		religion = hinduism
+		culture = avadhi
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+	queen = {
+		name = "Damika"
+		dynasty = "Lambakanna"
+		adm = 3
+		dip = 2
+		mil = 4
+		country_of_origin = SND
+		birth_date = 1390.12.23
+		death_date = 1450.12.23
+		female = yes
+		religion = buddhism
+		culture = sinhala
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = well_connected_personality
+	heir = {
+		name = "Prithvivarman"
+		monarch_name = "Prithvivarman"
+		dynasty = "Udayadityid"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 1409.4.27
+		death_date = 1474.4.27
+		claim = 89
+		religion = hinduism
+		culture = avadhi
+	}
+	add_heir_personality = fertile_personality
+	add_heir_personality = naive_personality
+}
+1444.11.11= {
+	add_prestige = 90
+	add_treasury = 39
+}

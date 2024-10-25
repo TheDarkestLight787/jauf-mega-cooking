@@ -1,0 +1,16 @@
+owner = MOD
+controller = MOD
+capital = "Bologna"
+is_city = yes
+culture = arpitan
+religion = sethianism
+trade_goods = cloth
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = DAU
+add_core = MOD
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

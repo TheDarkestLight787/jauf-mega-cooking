@@ -1,0 +1,95 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 214 90 79 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adela #1" = -1
+	"Amelung #1" = 10
+	"Cobbo #1" = 10
+	"Flòra #0" = -1
+	"Franz #0" = 0
+	"Gautselin #0" = 0
+	"Gebhard #1" = 10
+	"Gevert #1" = 10
+	"Hemma #0" = -1
+	"Lambert #0" = 0
+	"Magnus #0" = 0
+	"Sieghard #0" = 0
+}
+leader_names = {
+	"Baten"
+	"Bombeck"
+	"Boymann"
+	"Bremer"
+	"Breucker"
+	"Buschmann"
+	"Bühmer"
+	"Diekmann"
+	"Eckrath"
+	"Fischedick"
+	"Fortkamp"
+	"Glaser"
+	"Grüter"
+	"Hegemann"
+	"Kappenberg"
+	"Knümann"
+	"Leggewe"
+	"Liesenfeld"
+	"Limberg"
+	"Lochtkemper"
+	"Lohe"
+	"Lohmann"
+	"Nathrath"
+	"Ortmann"
+	"Perdekamp"
+	"Pickenbrock"
+	"Sankühler"
+	"Springmann"
+	"Stenkhoff"
+	"Stratmann"
+	"Wessels"
+	"von Wedich"
+	"von Westerburg"
+}
+ship_names = {
+	"Agger"
+	"Bischof Hildebold"
+	"Engelbert II"
+	"Erbischof Anno"
+	"Erft"
+	"Erzbischof Brun"
+	"Erzbischof Gero"
+	"Erzbischof Gunthar"
+	"Konrad Hochstaden"
+	"Rainald von Dassel"
+	"Rhein"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+	"Erzbischofliche Garde"
+}

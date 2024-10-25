@@ -1,0 +1,15 @@
+owner = SIC
+controller = SIC
+capital = "Trapani"
+is_city = yes
+culture = sicilian
+religion = sunni
+trade_goods = fish
+base_tax = 2
+base_production = 3
+base_manpower = 3
+add_core = SIC
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

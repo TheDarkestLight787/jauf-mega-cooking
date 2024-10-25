@@ -1,0 +1,16 @@
+owner = DAR
+controller = DAR
+capital = "Ouara"
+is_city = yes
+culture = dynamic-daju-culture-num1
+religion = shamanism
+trade_goods = unknown
+fort_15th = yes
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = DAR
+discovered_by = sub_saharan
+native_size = 50
+native_ferocity = 4
+native_hostileness = 9

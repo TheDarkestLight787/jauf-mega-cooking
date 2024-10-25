@@ -1,0 +1,17 @@
+owner = Z0Z
+controller = Z0Z
+capital = "Yasi"
+is_city = yes
+culture = oghuz
+religion = sunni
+trade_goods = grain
+base_tax = 3
+base_production = 2
+base_manpower = 2
+add_core = OGZ
+add_core = Z0Z
+add_core = Z1X
+discovered_by = KAS
+discovered_by = muslim
+discovered_by = nomad_group
+discovered_by = ottoman

@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = rajput_kingdom
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = saurashtri
+capital = 2052
+fixed_capital = 2052
+1444.11.11= {
+	monarch = {
+		name = "Dhruvabhata"
+		dynasty = "Saindhava"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1394.3.26
+		religion = hinduism
+		culture = saurashtri
+	}
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = drunkard_personality
+	queen = {
+		name = "Somalladevi"
+		dynasty = "Orsini"
+		adm = 3
+		dip = 1
+		mil = 3
+		country_of_origin = NVR
+		birth_date = 1391.5.30
+		death_date = 1451.5.30
+		female = yes
+		religion = hinduism
+		culture = gujarati
+	}
+	add_queen_personality = just_personality
+	add_queen_personality = strict_personality
+	heir = {
+		name = "Subhatavarman"
+		monarch_name = "Subhatavarman II"
+		dynasty = "Saindhava"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1414.4.13
+		death_date = 1479.4.13
+		claim = 89
+		religion = hinduism
+		culture = saka
+	}
+	add_heir_personality = greedy_personality
+	add_heir_personality = righteous_personality
+}
+1444.11.11= {
+	add_prestige = 74
+	add_treasury = 53
+}

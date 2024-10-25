@@ -1,0 +1,14 @@
+owner = FIN
+controller = FIN
+capital = "Åbo"
+is_city = yes
+culture = swedish
+religion = converted_dynamic_faith_115
+trade_goods = grain
+base_tax = 3
+base_production = 1
+base_manpower = 2
+add_core = FIN
+add_core = SWE
+discovered_by = eastern
+discovered_by = western

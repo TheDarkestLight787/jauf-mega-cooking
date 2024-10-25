@@ -1,0 +1,23 @@
+owner = BUR
+controller = BUR
+capital = "Aix-en-Provence"
+is_city = yes
+culture = arpitan
+religion = sethianism
+trade_goods = glass
+fort_15th = yes
+base_tax = 5
+base_production = 5
+base_manpower = 3
+extra_cost = 10
+center_of_trade = 2
+add_core = BUR
+add_core = DAU
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+add_permanent_province_modifier = {
+	name = rhone_estuary_modifier
+	duration = -1
+}

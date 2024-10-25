@@ -1,0 +1,15 @@
+owner = Z42
+controller = Z42
+capital = "Qamdo"
+is_city = yes
+culture = sumpa
+religion = vajrayana
+trade_goods = spices
+base_tax = 3
+base_production = 1
+base_manpower = 2
+add_core = TIB
+add_core = Z42
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

@@ -1,0 +1,16 @@
+owner = Z0R
+controller = Z0R
+capital = "Salerno"
+is_city = yes
+culture = magnagreek
+religion = hellenic_pagan
+trade_goods = fish
+base_tax = 1
+base_production = 4
+base_manpower = 2
+add_core = Z0R
+add_core = Z1T
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

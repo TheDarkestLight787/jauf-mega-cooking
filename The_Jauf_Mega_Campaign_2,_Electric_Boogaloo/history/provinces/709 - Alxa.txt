@@ -1,0 +1,14 @@
+owner = Z2G
+controller = Z2G
+capital = "Alxa"
+is_city = yes
+culture = chihan
+religion = confucianism
+trade_goods = gems
+base_tax = 1
+base_production = 2
+base_manpower = 3
+add_core = YAN
+add_core = Z2G
+discovered_by = chinese
+discovered_by = nomad_group

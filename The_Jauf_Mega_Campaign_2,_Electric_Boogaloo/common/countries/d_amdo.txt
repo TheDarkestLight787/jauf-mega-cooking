@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 79 72 217 }
+monarch_names = {
+	"Bönpoche #1" = 10
+	"Böntok #2" = 10
+	"Böntsen #0" = 0
+	"Ceba #0" = 0
+	"Chéchentsa #1" = 10
+	"Chöden #1" = 10
+	"Cimba #0" = -1
+	"Drönma #1" = -1
+	"Jamgön #1" = 10
+	"Lhadé #1" = 10
+	"Sherab #0" = -1
+	"Trideiöpo #1" = 10
+	"Trimen #1" = 10
+	"Wangmo #1" = -1
+}

@@ -1,0 +1,17 @@
+owner = Z0K
+controller = Z0K
+capital = "Murzuk"
+is_city = yes
+culture = berber
+religion = ibadi
+trade_goods = ivory
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = TLC
+add_core = Z0J
+add_core = Z0K
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

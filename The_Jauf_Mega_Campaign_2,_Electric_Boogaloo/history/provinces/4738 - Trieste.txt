@@ -1,0 +1,15 @@
+owner = BAV
+controller = BAV
+capital = "Trieste"
+is_city = yes
+culture = venetian
+religion = sethianism
+trade_goods = fish
+base_tax = 4
+base_production = 4
+base_manpower = 3
+add_core = BAV
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

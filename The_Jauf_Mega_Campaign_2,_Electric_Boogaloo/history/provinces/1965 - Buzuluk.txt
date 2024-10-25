@@ -1,0 +1,16 @@
+owner = Z09
+controller = Z09
+capital = "Buzuluk"
+is_city = yes
+culture = pecheneg
+religion = tengri_pagan
+trade_goods = iron
+base_tax = 1
+base_production = 2
+base_manpower = 1
+add_core = PTZ
+add_core = Z09
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = nomad_group
+discovered_by = ottoman

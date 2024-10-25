@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = uparaja_reform
+government_rank = 1
+technology_group = muslim
+religion = mahayana
+primary_culture = saka
+capital = 4454
+add_accepted_culture = gujarati
+add_accepted_culture = saurashtri
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Mamatti"
+		dynasty = "Purgulid"
+		adm = 4
+		dip = 2
+		mil = 5
+		birth_date = 1406.2.22
+		religion = mahayana
+		culture = saka
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Alyonj"
+		dynasty = "Vijaya"
+		adm = 2
+		dip = 4
+		mil = 3
+		country_of_origin = Z1U
+		birth_date = 1403.7.6
+		death_date = 1463.7.6
+		female = yes
+		religion = mahayana
+		culture = saka
+	}
+	add_queen_personality = architectural_visionary_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Hvarda"
+		monarch_name = "Hvarda"
+		dynasty = "Vijaya"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 1433.10.16
+		death_date = 1498.10.16
+		claim = 89
+		religion = mahayana
+		culture = saka
+	}
+	add_heir_personality = careful_personality
+	add_heir_personality = scholar_personality
+}
+1444.11.11= {
+	add_prestige = 67
+	add_treasury = 0
+}

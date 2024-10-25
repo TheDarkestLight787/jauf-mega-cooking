@@ -1,0 +1,16 @@
+owner = NSA
+controller = NSA
+capital = "Wiesbaden"
+is_city = yes
+culture = swabian
+religion = catholic
+trade_goods = copper
+base_tax = 2
+base_production = 1
+base_manpower = 3
+add_core = NSA
+add_core = SWA
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

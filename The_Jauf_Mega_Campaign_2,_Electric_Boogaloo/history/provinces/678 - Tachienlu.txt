@@ -1,0 +1,14 @@
+owner = Z0W
+controller = Z0W
+capital = "Tachienlu"
+is_city = yes
+culture = tibetan
+religion = vajrayana
+trade_goods = tea
+base_tax = 4
+base_production = 3
+base_manpower = 2
+add_core = Z0W
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

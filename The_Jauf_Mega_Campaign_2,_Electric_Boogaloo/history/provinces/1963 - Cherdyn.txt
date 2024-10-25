@@ -1,0 +1,15 @@
+owner = Z24
+controller = Z24
+capital = "Cherdyn"
+is_city = yes
+culture = uralic
+religion = converted_dynamic_faith_112
+trade_goods = salt
+base_tax = 1
+base_production = 2
+base_manpower = 2
+extra_cost = 8
+center_of_trade = 1
+add_core = Z24
+discovered_by = eastern
+discovered_by = nomad_group

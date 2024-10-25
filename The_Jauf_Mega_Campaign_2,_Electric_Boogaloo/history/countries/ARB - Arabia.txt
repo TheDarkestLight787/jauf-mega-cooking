@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 3
+technology_group = muslim
+religion = sunni
+primary_culture = al_iraqiya_arabic
+capital = 4293
+religious_school = hanbali_school
+1444.11.11= {
+	monarch = {
+		name = "al-Mu'tazz II"
+		dynasty = "Abbasid"
+		adm = 4
+		dip = 6
+		mil = 3
+		birth_date = 1374.7.24
+		religion = sunni
+		culture = al_iraqiya_arabic
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Nahal"
+		dynasty = "Bahirid"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = ARB
+		birth_date = 1418.10.30
+		death_date = 1478.10.30
+		female = yes
+		religion = sunni
+		culture = al_suryah_arabic
+	}
+	add_queen_personality = lawgiver_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Abd al-Razzaq"
+		monarch_name = "Abd al-Razzaq"
+		dynasty = "Abbasid"
+		adm = 5
+		dip = 6
+		mil = 5
+		birth_date = 1398.5.15
+		death_date = 1463.5.15
+		claim = 89
+		religion = sunni
+		culture = al_suryah_arabic
+	}
+	add_heir_personality = lawgiver_personality
+	add_heir_personality = righteous_personality
+}
+1444.11.11= {
+	add_prestige = 97
+	add_treasury = 57
+}

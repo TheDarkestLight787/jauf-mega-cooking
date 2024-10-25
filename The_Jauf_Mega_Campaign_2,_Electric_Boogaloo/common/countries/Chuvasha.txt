@@ -1,0 +1,75 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 162 38 11 }
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	religious_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Akhutai #1" = 10
+	"Aygobek #0" = 0
+	"Ertekin #1" = 10
+	"Gavriil #0" = 0
+	"Gremislava #0" = -1
+	"Illiger #0" = 0
+	"Iziaslav #0" = 0
+	"Jurat #0" = 0
+	"Kutlug #1" = 10
+	"Malusha #0" = -1
+	"Matfei #0" = 0
+	"M0ssa #0" = 0
+	"Radovan #0" = 0
+	"Sherip #0" = 0
+	"Trifon #0" = 0
+}
+leader_names = {
+	"Batu Arslan"
+	"Bora Unegen"
+	"Burilgijin"
+	"Chagan Chinua"
+	"Cherenqai"
+	"Kokechar"
+	"Mongke Cheren"
+	"Qutughgge"
+	"Suren Gal"
+	"Tegus-tu"
+	"Temurgene"
+	"Toluichu"
+	"Yekedai"
+}
+ship_names = {
+	"Cu"
+	"Emba"
+	"Ili"
+	"Irtys"
+	"Isim"
+	"Kisi Jüz"
+	"Nura"
+	"Orta Jüz"
+	"Qoja"
+	"Syrdarja"
+	"Turgay"
+	"Tölengit"
+	"Töre"
+	"Uil"
+	"Uli Jüz"
+}

@@ -1,0 +1,14 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 112 13 13 }
+monarch_names = {
+	"Eadgyth #0" = -1
+	"Eadweald #0" = 0
+	"Ealdgyth #0" = -1
+	"Eterscél #0" = 0
+	"Maud #0" = -1
+	"Oshere #0" = 0
+	"Osræd #1" = 10
+	"Scule #0" = 0
+	"Ælfric #0" = 0
+}

@@ -1,0 +1,15 @@
+owner = ENG
+controller = ENG
+capital = "Penryn"
+is_city = yes
+culture = dynamic-cornish-volhynian-culture-num1
+religion = ibadi
+trade_goods = copper
+base_tax = 2
+base_production = 1
+base_manpower = 4
+add_core = ENG
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

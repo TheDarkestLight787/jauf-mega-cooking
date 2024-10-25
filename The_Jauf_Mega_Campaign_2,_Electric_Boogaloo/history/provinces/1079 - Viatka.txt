@@ -1,0 +1,15 @@
+owner = Z32
+controller = Z32
+capital = "Hlynov"
+is_city = yes
+culture = uralic
+religion = converted_dynamic_faith_112
+trade_goods = copper
+base_tax = 3
+base_production = 2
+base_manpower = 2
+add_core = Z32
+discovered_by = GOL
+discovered_by = eastern
+discovered_by = nomad_group
+discovered_by = western

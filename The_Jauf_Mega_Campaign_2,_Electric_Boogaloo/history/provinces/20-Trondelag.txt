@@ -1,0 +1,15 @@
+owner = SCA
+controller = SCA
+capital = "Trondheim"
+is_city = yes
+culture = dynamic-norse-saxon-culture-num1
+religion = converted_dynamic_faith_115
+trade_goods = fish
+base_tax = 6
+base_production = 3
+base_manpower = 2
+extra_cost = 8
+center_of_trade = 1
+add_core = SCA
+discovered_by = eastern
+discovered_by = western

@@ -1,0 +1,34 @@
+converted_egyptian_faith = {
+	converted_egyptian_faith = {
+		color = { 127 123 82 }
+		icon =  176
+		country = {
+ 
+		global_institution_spread = 0.1
+	
+
+		diplomatic_reputation = 1
+	
+
+		hostile_attrition = 1
+	
+
+		heir_chance = 1
+	
+}
+		country_as_secondary = {
+ 
+		global_institution_spread = 0.1
+	
+
+		diplomatic_reputation = 1
+	
+}
+		province = {
+ 
+		local_missionary_strength = -0.02
+	
+}
+	}
+}
+

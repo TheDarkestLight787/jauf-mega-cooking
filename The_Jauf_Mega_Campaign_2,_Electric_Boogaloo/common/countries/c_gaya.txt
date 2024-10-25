@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 15 112 35 }
+monarch_names = {
+	"Basudevnayaran #0" = 0
+	"Dharmaraja #1" = 10
+	"Durlabha #0" = -1
+	"Ewakhsh #1" = 10
+	"Gayatri #0" = -1
+	"Ladahachandra #0" = 0
+	"Mandalika #1" = 10
+	"Nawxoš #1" = -1
+	"Pandita #1" = 10
+	"Ranaka #1" = 10
+	"Sadhanika #1" = 10
+	"Safali #1" = -1
+	"Suvrata #1" = -1
+	"Yared #0" = 0
+}

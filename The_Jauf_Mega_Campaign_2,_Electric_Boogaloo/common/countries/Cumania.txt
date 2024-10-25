@@ -1,0 +1,139 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 131 84 50 }
+historical_idea_groups = {
+	expansion_ideas
+	offensive_ideas
+	administrative_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Agathe #0" = -1
+	"Aibak #0" = 0
+	"Akgul #0" = -1
+	"Alexandros #0" = 0
+	"Alpra #0" = 0
+	"Arbuz #0" = 0
+	"Baytursun #0" = 0
+	"Berkiyaruk #0" = 0
+	"Bogorchu #0" = 0
+	"Bugidai #0" = 0
+	"Börte #0" = -1
+	"Chakha #0" = -1
+	"Chenggis #1" = 10
+	"Chidukhul #0" = 0
+	"Chrysogone #0" = -1
+	"Demetra #0" = -1
+	"Elaiodora #0" = -1
+	"Eulalia #0" = -1
+	"Gennadios #0" = 0
+	"Ghazan #0" = 0
+	"Ghunan #0" = 0
+	"Goland #0" = -1
+	"Gorislava #0" = -1
+	"Gulay #0" = -1
+	"Guyug #1" = 10
+	"Gzi #0" = 0
+	"Harghasun #0" = 0
+	"Helene #0" = -1
+	"Hippolytos #0" = 0
+	"Holuikhan #0" = -1
+	"Ioulianos #0" = 0
+	"Kallistos #0" = 0
+	"Khorchi #0" = 0
+	"Khorilartai #0" = 0
+	"Kokachin #0" = -1
+	"Konstantios #0" = 0
+	"Kugel #0" = 0
+	"Kyra #0" = -1
+	"Nalka #0" = 0
+	"Narses #0" = 0
+	"Nuyanza #0" = -1
+	"Oljaitu #0" = 0
+	"Orqina #0" = -1
+	"Prusas #0" = 0
+	"Romane #0" = -1
+	"Serapion #0" = 0
+	"Shorena #0" = -1
+	"Sirçan #0" = 0
+	"Staurakios #0" = 0
+	"Tapar #0" = 0
+	"Theodoulos #0" = 0
+	"Tikshayka #0" = 0
+	"Timotheos #0" = 0
+	"Togortok #0" = 0
+	"Tyueykezhut #0" = 0
+	"Uighurtai #0" = 0
+	"Upurga #0" = -1
+	"Zeyhan #0" = 0
+	"al-Alta #0" = -1
+}
+leader_names = {
+	"Bayangge"
+	"Boke Temur"
+	"Bora Chinua"
+	"Chinuagene"
+	"Delger Bayar"
+	"Koke Burilgi"
+	"Nasange"
+	"Qutlugh Vachir"
+	"Qutughqan"
+	"Shria Gan"
+	"Suren Chinua"
+	"Surenchar"
+	"Temur-chi"
+	"Toluilun"
+}
+ship_names = {
+	"Abdallah"
+	"Baraq"
+	"Batu"
+	"Berdi Beg"
+	"Berke"
+	"Dawlat Berdi"
+	"Ediguh"
+	"Jabbar Berdi"
+	"Jalal ad-Din"
+	"Jani Beg"
+	"Karim Berdi"
+	"Kebek"
+	"Khidr"
+	"Mamai Khan"
+	"Mengu-Timur"
+	"Muhammad Bolak"
+	"Nawruz Beg"
+	"Nogai Khan"
+	"Polad Khan"
+	"Qulpa"
+	"Sartaq"
+	"Sayud Ahmad"
+	"Shadi Beg"
+	"Talabuga"
+	"TemÃ¼r"
+	"TemÃ¼r Qutlugh"
+	"Timur Khwaja"
+	"Tini Beg"
+	"Tokhta"
+	"Toqtamish"
+	"Tuda-Mengu"
+	"Ulaghchi"
+	"Ulugh Muhammad"
+	"Ã–z Beg"
+}

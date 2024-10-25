@@ -1,0 +1,77 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 47 132 124 }
+revolutionary_colors = { 10 8 10 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	quantity_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+historical_units = {
+	indian_archers
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Agnimitra #0" = 0
+	"Chinanch #0" = -1
+	"Diaochan #1" = -1
+	"Gongsun #1" = 10
+	"Guiying #0" = -1
+	"Huaiguang #0" = 0
+	"Hui #0" = 0
+	"Huizhao #0" = -1
+	"Kailaspala #0" = 0
+	"Kavatiyakkan #0" = -1
+	"Liu #1" = 10
+	"Ramaraya #0" = 0
+	"Sarah #0" = -1
+	"Shunhua #0" = -1
+	"Yuhuan #0" = -1
+	"Zhenglun #0" = 0
+}
+leader_names = {
+	"Ambadeva"
+	"Gannaiah"
+	"Gona"
+	"Pandava"
+	"Racha"
+	"Rai"
+	"Reddy"
+	"Roy"
+	"Suryavamsa"
+	"Velama"
+}
+ship_names = {
+	"Anantavarman"
+	"Bishnupriya"
+	"Devarakonda"
+	"Godavari"
+	"Hidimba"
+	"Kataya"
+	"Konark"
+	"Krishnapriya"
+	"Kumar"
+	"Lakshmi"
+	"Masulipatnam"
+	"Naga"
+	"Paradeep"
+	"Parvati"
+	"Rachakonda"
+	"Radha"
+	"Rahu"
+	"Rajahmundry"
+	"Rakshasa"
+	"Sarasvati"
+	"Satapada"
+	"Vizianagaram"
+	"Warangal"
+}

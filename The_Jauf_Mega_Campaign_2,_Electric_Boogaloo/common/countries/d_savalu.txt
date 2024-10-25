@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 52 162 56 }
+monarch_names = {
+	"Bore Chie #0" = 0
+	"Demba #0" = -1
+	"Dimbi #0" = -1
+	"Doye #0" = -1
+	"Fatim #0" = -1
+	"Miata #0" = -1
+	"Ndieumbeutt #1" = -1
+	"Nmad #1" = -1
+	"Rigau #0" = 0
+	"Samafon #1" = 10
+	"Sisabge #0" = -1
+}

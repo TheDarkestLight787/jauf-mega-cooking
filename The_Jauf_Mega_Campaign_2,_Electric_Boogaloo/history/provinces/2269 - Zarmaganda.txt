@@ -1,0 +1,16 @@
+owner = HAU
+controller = HAU
+capital = "Ouallam"
+is_city = yes
+culture = bozo
+religion = ibadi
+trade_goods = wool
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = HAU
+add_core = JNN
+discovered_by = sub_saharan
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 2
+technology_group = east_african
+religion = converted_egyptian_faith
+primary_culture = nubian
+capital = 1228
+mercantilism = 15
+add_accepted_culture = old_egyptian
+1444.11.11= {
+	monarch = {
+		name = "Georgios"
+		dynasty = "Azim"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 1413.12.26
+		religion = converted_egyptian_faith
+		culture = nubian
+	}
+	add_ruler_personality = fertile_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Éléonore"
+		dynasty = "Karling"
+		adm = 5
+		dip = 5
+		mil = 3
+		country_of_origin = NBI
+		birth_date = 1412.1.4
+		death_date = 1472.1.4
+		female = yes
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_queen_personality = just_personality
+	add_queen_personality = strict_personality
+	heir = {
+		name = "Thoma"
+		monarch_name = "Thoma"
+		dynasty = "Azim"
+		adm = 6
+		dip = 3
+		mil = 6
+		birth_date = 1415.12.26
+		death_date = 1480.12.26
+		claim = 89
+		religion = converted_egyptian_faith
+		culture = nubian
+	}
+	add_heir_personality = pious_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 75
+	add_treasury = 65
+}

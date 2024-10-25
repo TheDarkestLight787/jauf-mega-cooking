@@ -1,0 +1,42 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = sethianism
+primary_culture = cosmopolitan_french
+capital = 104
+add_accepted_culture = arpitan
+1444.11.11= {
+	monarch = {
+		name = "Gaucelin"
+		dynasty = "de Parma"
+		adm = 3
+		dip = 4
+		mil = 5
+		birth_date = 1409.11.23
+		religion = sethianism
+		culture = cosmopolitan_french
+	}
+	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Élodie"
+		monarch_name = "Élodie"
+		dynasty = "de Parma"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1436.12.1
+		death_date = 1501.12.1
+		female = yes
+		claim = 89
+		religion = sethianism
+		culture = cosmopolitan_french
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11= {
+	add_prestige = 63
+	add_treasury = 32
+}

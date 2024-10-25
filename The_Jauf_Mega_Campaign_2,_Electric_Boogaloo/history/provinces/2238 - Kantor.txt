@@ -1,0 +1,13 @@
+owner = KBU
+controller = KBU
+capital = "Sutuco"
+is_city = yes
+culture = misrayim
+religion = converted_dynamic_faith_114
+trade_goods = ivory
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = ISR
+add_core = KBU
+discovered_by = sub_saharan

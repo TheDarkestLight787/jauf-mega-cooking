@@ -1,0 +1,191 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 32 144 204 }
+revolutionary_colors = { 5 8 13 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+historical_units = {
+	anglofrench_line
+	dutch_maurician
+	french_bluecoat
+	french_caracolle
+	french_cuirassier
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adalmode #0" = -1
+	"Adèle #0" = -1
+	"Agathe #0" = -1
+	"Agnès #0" = -1
+	"Aimeric #0" = 0
+	"Bertrand #0" = 0
+	"Brethoc #0" = 0
+	"Bérard #0" = 0
+	"Carloman #2" = 10
+	"Charles #4" = 10
+	"Constance #0" = -1
+	"Denise #0" = -1
+	"Eustachie #0" = -1
+	"Ferrand #0" = 0
+	"Filip #0" = 0
+	"Gargamel #0" = 0
+	"Hellawes #0" = -1
+	"Judith #0" = -1
+	"Karl #1" = 10
+	"Louis #1" = 10
+	"Luthard #0" = 0
+	"Mélusine #0" = -1
+	"Pepin #3" = 10
+	"Rahat #0" = -1
+	"Richard #0" = 0
+	"Sophie #0" = -1
+	"Thierry #0" = 0
+	"Thomas #1" = 10
+	"Édouard #0" = 0
+}
+leader_names = {
+	"Aller"
+	"Detmold"
+	"Hamelm"
+	"Hildesheim"
+	"Kapp"
+	"Minden"
+	"Oldenburg"
+	"Salzgitter"
+	"Werden"
+	"Wernigerode"
+}
+ship_names = {
+	"Adour"
+	"Africain"
+	"Aigle"
+	"Aigle d'Or"
+	"Aimable Marthe"
+	"Aimable Nanon"
+	"Aimable Rose"
+	"Alexandre"
+	"Amitié"
+	"Amphitrite"
+	"Américain"
+	"Angélique"
+	"Arc en Ciel"
+	"Bayonnaise"
+	"Belle Poule"
+	"Bienfaisant"
+	"Biscayenne"
+	"Bizarre"
+	"Bonnes Amies"
+	"Bordelais"
+	"Brillant"
+	"Caroline"
+	"Castor"
+	"Catiche"
+	"Charente"
+	"Charmante Manon"
+	"Charmante Nancy"
+	"Charmante Rachel"
+	"Château de Bayonne"
+	"Chézine"
+	"Commerce de Bordeaux"
+	"Comte de Toulouse"
+	"Content"
+	"Deux Frères"
+	"Diamant"
+	"Diligente"
+	"Duc d'Aquitaine"
+	"Débonnaire"
+	"Dédaigneuse"
+	"Elisabeth"
+	"Entreprenante"
+	"Espérance"
+	"Extravagante"
+	"Favori"
+	"Fendant"
+	"Flamand"
+	"Gaillard"
+	"Galant"
+	"Godichon"
+	"Grand Coureur"
+	"Grand Sirius"
+	"Gros Ventre"
+	"Hercule"
+	"Hermine"
+	"Impérieuse"
+	"Indien"
+	"Intrépide"
+	"Jolie"
+	"Joseph"
+	"Labourt"
+	"Laurence"
+	"Licorne"
+	"Lion"
+	"Légère"
+	"Machault"
+	"Marchand"
+	"Mars"
+	"Mascarin"
+	"Maure"
+	"Mignon"
+	"Mégère"
+	"Mélampe"
+	"Neptune"
+	"Nouvelle Victoire"
+	"Oiseau"
+	"Opale"
+	"Phénix"
+	"Pollux"
+	"Pélican"
+	"Quatre Frères"
+	"Rameau"
+	"Reine Marie"
+	"Renommée"
+	"Rostan"
+	"Royal Daim"
+	"Saint Jacques"
+	"Saint Pierre"
+	"Sirène"
+	"Soleil Royal"
+	"Ste Anne de Bordeaux"
+	"Swinton"
+	"Tamponne"
+	"Toison d'Or"
+	"Tourterelle"
+	"Trinité"
+	"Triton"
+	"Utile"
+	"Valeur"
+	"Ville de Bayonne"
+	"Vénus"
+}
+army_names = {
+	"Armée d'Albret"
+	"Armée d'Aquitaine"
+	"Armée de $PROVINCE$"
+	"Armée de Castillon"
+	"Armée de l'Agenais"
+	"Armée de la Garonne"
+	"Armée du Bazadais"
+	"Armée du Blayais"
+	"Armée du Bordelais"
+	"Armée du Fronsadais"
+	"Armée du Libournais"
+	"Armée du Pays de Buch"
+	"Armée du Queyran"
+}

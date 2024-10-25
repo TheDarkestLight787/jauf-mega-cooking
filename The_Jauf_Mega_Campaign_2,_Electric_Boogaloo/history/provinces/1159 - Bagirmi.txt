@@ -1,0 +1,12 @@
+owner = Z0D
+controller = Z0D
+capital = "Massenya"
+is_city = yes
+culture = kanuri
+religion = shamanism
+trade_goods = ivory
+base_tax = 1
+base_production = 1
+base_manpower = 3
+add_core = Z0D
+discovered_by = sub_saharan

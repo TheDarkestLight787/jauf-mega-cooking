@@ -1,0 +1,15 @@
+owner = SPL
+controller = SPL
+capital = "Spoleto"
+is_city = yes
+culture = lombard
+religion = sethianism
+trade_goods = livestock
+base_tax = 2
+base_production = 3
+base_manpower = 3
+add_core = SPL
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

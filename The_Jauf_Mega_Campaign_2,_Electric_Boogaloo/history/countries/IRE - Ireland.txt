@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = irish
+capital = 373
+1444.11.11= {
+	monarch = {
+		name = "Aliken"
+		dynasty = "van Arkel"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 1389.10.30
+		female = yes
+		religion = catholic
+		culture = irish
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Olivier"
+		monarch_name = "Olivier"
+		dynasty = "van Arkel"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 1412.9.14
+		death_date = 1477.9.14
+		claim = 89
+		religion = catholic
+		culture = dutch
+	}
+	add_heir_personality = strict_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 72
+	add_treasury = 40
+}

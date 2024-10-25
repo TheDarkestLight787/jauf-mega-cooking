@@ -1,0 +1,58 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = east_african
+religion = sunni
+primary_culture = harari
+capital = 2761
+religious_school = hanbali_school
+add_accepted_culture = somali
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Nizam"
+		dynasty = "Dahnay"
+		adm = 5
+		dip = 2
+		mil = 3
+		birth_date = 1390.11.4
+		religion = sunni
+		culture = harari
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Abeba"
+		dynasty = "Nadjahid"
+		adm = 4
+		dip = 2
+		mil = 3
+		country_of_origin = Z11
+		birth_date = 1414.9.16
+		death_date = 1474.9.16
+		female = yes
+		religion = sunni
+		culture = amhara
+	}
+	add_queen_personality = pious_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Nizam"
+		monarch_name = "Nizam II"
+		dynasty = "Dahnay"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 1431.11.27
+		death_date = 1496.11.27
+		claim = 89
+		religion = sunni
+		culture = amhara
+	}
+	add_heir_personality = pious_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 84
+	add_treasury = 50
+}

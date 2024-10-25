@@ -1,0 +1,13 @@
+owner = Z00
+controller = Z00
+capital = "Kurussa"
+is_city = yes
+culture = dynamic-al_suryah_arabic-soninke-culture-num1
+religion = converted_dynamic_faith_113
+trade_goods = gold
+fort_15th = yes
+base_tax = 4
+base_production = 8
+base_manpower = 2
+add_core = Z00
+discovered_by = sub_saharan

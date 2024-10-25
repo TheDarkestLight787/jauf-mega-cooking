@@ -1,0 +1,15 @@
+owner = DTT
+controller = DTT
+capital = "Meldorf"
+is_city = yes
+culture = dynamic-norse-saxon-culture-num1
+religion = converted_dynamic_faith_115
+trade_goods = grain
+base_tax = 2
+base_production = 3
+base_manpower = 3
+add_core = DTT
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

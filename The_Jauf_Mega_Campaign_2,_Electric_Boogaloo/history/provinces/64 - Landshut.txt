@@ -1,0 +1,15 @@
+owner = Z0G
+controller = Z0G
+capital = "Landshut"
+is_city = yes
+culture = bavarian
+religion = catholic
+trade_goods = salt
+base_tax = 2
+base_production = 1
+base_manpower = 3
+add_core = Z0G
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,110 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 22 157 57 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Ashot #3" = 10
+	"Atrnerseh #1" = 10
+	"Bagrat #2" = 10
+	"Baydzar #0" = -1
+	"Cothilda #0" = -1
+	"Grigor #1" = 10
+	"Helias #0" = 0
+	"Irmele #0" = -1
+	"Ismat #0" = 0
+	"Kale #0" = -1
+	"Levon #1" = 10
+	"Manuel #0" = 0
+	"Mara #0" = -1
+	"Mashdotz #0" = 0
+	"Meghranoush #0" = -1
+	"Mushel #0" = 0
+	"Smbat #1" = 10
+	"Tornik #1" = 10
+	"Varaz-Tiroc #1" = 10
+	"Vasak #1" = 10
+}
+leader_names = {
+	"Amilakhori"
+	"Avilishvili"
+	"Diasamidze"
+	"Gaganidze"
+	"Gogibashvili"
+	"Gogorishvili"
+	"Khildirbegashvili"
+	"Kobulisdze"
+	"Kopasdze"
+	"Palavandishvili"
+	"Panaskerteli"
+	"Shalikashvili"
+	"Sologashvili"
+	"Sumbatishvili"
+	"Tavdgiridze"
+	"Tukhareli"
+}
+ship_names = {
+	"Aghbugha"
+	"Amirani"
+	"Anakopia"
+	"Apsaros"
+	"Argo"
+	"Armazi"
+	"Artaani"
+	"Avtandil"
+	"Beka"
+	"Beshken"
+	"Bichvinta"
+	"Colchis"
+	"Davit Aghmashenebeli"
+	"Demetre Tavdadebuli"
+	"Didgori"
+	"Dioscurias"
+	"Jvari"
+	"Jvari Vazisa"
+	"Khornabuji"
+	"Lasharisjvari"
+	"Ninotsminda"
+	"Okros Satsmisi"
+	"Parnavaz"
+	"Petre Iberi"
+	"Phasis"
+	"Pityus"
+	"Sargis"
+	"Shota Rustaveli"
+	"Svetitskhoveli"
+	"Tamar"
+	"Tetri Giorgi"
+	"Tsminda Giorgi"
+	"Tsotne Dadiani"
+	"Uplistsikhe"
+	"Vakhtang Gorgasali"
+	"Vardzia"
+	"Venakhi"
+}

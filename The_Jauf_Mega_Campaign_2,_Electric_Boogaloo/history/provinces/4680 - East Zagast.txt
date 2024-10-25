@@ -1,0 +1,15 @@
+owner = KHA
+controller = KHA
+capital = "Zakhchin"
+is_city = yes
+culture = khalkha
+religion = converted_dynamic_faith_112
+trade_goods = livestock
+fort_15th = yes
+base_tax = 3
+base_production = 2
+base_manpower = 2
+add_core = KHA
+add_core = KLK
+discovered_by = chinese
+discovered_by = nomad_group

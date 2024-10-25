@@ -1,0 +1,21 @@
+owner = ENG
+controller = ENG
+capital = "London"
+is_city = yes
+culture = dynamic-cornish-volhynian-culture-num1
+religion = ibadi
+trade_goods = cloth
+base_tax = 4
+base_production = 8
+base_manpower = 2
+extra_cost = 26
+center_of_trade = 2
+add_core = ENG
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+add_permanent_province_modifier = {
+	name = thames_estuary_modifier
+	duration = -1
+}

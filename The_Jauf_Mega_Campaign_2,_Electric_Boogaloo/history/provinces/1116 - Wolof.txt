@@ -1,0 +1,13 @@
+owner = KBU
+controller = KBU
+capital = "Jowol"
+is_city = yes
+culture = senegambian
+religion = converted_dynamic_faith_114
+trade_goods = slaves
+base_tax = 3
+base_production = 2
+base_manpower = 2
+add_core = JOL
+add_core = KBU
+discovered_by = sub_saharan

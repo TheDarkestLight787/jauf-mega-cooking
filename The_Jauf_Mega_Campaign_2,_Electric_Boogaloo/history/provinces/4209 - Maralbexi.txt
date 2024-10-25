@@ -1,0 +1,15 @@
+owner = Z2H
+controller = Z2H
+capital = "Maralbexi"
+is_city = yes
+culture = saka
+religion = sunni
+trade_goods = wool
+base_tax = 4
+base_production = 3
+base_manpower = 3
+add_core = Z2H
+add_core = Z31
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

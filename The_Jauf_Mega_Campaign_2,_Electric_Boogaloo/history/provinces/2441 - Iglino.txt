@@ -1,0 +1,13 @@
+owner = MGE
+controller = MGE
+capital = "Iglino"
+is_city = yes
+culture = nogaybak
+religion = converted_dynamic_faith_112
+trade_goods = fur
+base_tax = 3
+base_production = 2
+base_manpower = 2
+add_core = MGE
+add_core = NOG
+discovered_by = nomad_group

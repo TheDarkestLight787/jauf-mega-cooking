@@ -1,0 +1,14 @@
+owner = Z2E
+controller = Z2E
+capital = "Badain Jaran"
+is_city = yes
+culture = chihan
+religion = confucianism
+trade_goods = livestock
+base_tax = 1
+base_production = 3
+base_manpower = 3
+add_core = YAN
+add_core = Z2E
+discovered_by = chinese
+discovered_by = nomad_group

@@ -1,0 +1,23 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 36 148 41 }
+monarch_names = {
+	"Alima #1" = -1
+	"Baadindiye #0" = 0
+	"Chisom #0" = -1
+	"Dalo #0" = 0
+	"Daramani #0" = 0
+	"Dulugu #0" = 0
+	"Dyam #0" = -1
+	"Folami #0" = 0
+	"Gorpue #0" = -1
+	"Kalinkuma #0" = 0
+	"Kayin #1" = -1
+	"Nmad #0" = -1
+	"Nwabugwu #0" = -1
+	"Nwoye #0" = 0
+	"Olukayode #0" = 0
+	"Owusuwao #0" = 0
+	"Rigau #0" = 0
+	"Sidibé #0" = -1
+}

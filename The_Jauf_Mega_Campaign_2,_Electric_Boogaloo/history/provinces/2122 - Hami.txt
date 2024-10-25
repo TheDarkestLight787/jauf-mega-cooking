@@ -1,0 +1,14 @@
+owner = Z0O
+controller = Z0O
+capital = "Hami"
+is_city = yes
+culture = chihan
+religion = vajrayana
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = YAN
+add_core = Z0O
+discovered_by = chinese
+discovered_by = nomad_group

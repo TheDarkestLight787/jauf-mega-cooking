@@ -1,0 +1,15 @@
+owner = Z2F
+controller = Z2F
+capital = "Msila"
+is_city = yes
+culture = algerian
+religion = ibadi
+trade_goods = salt
+base_tax = 4
+base_production = 3
+base_manpower = 2
+add_core = ALG
+add_core = Z2F
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = eastern
+religion = coptic
+primary_culture = armenian
+capital = 331
+1444.11.11= {
+	monarch = {
+		name = "Sarkis"
+		dynasty = "Arcruni"
+		adm = 5
+		dip = 3
+		mil = 6
+		birth_date = 1388.5.26
+		religion = coptic
+		culture = armenian
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = kind_hearted_personality
+	queen = {
+		name = "Nazaneen"
+		dynasty = "Zurayid"
+		adm = 4
+		dip = 5
+		mil = 4
+		country_of_origin = ARM
+		birth_date = 1394.6.21
+		death_date = 1454.6.21
+		female = yes
+		religion = coptic
+		culture = al_suryah_arabic
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = lawgiver_personality
+	heir = {
+		name = "Vahag"
+		monarch_name = "Vahag"
+		dynasty = "Arcruni"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1411.7.25
+		death_date = 1476.7.25
+		claim = 89
+		religion = coptic
+		culture = armenian
+	}
+	add_heir_personality = fertile_personality
+	add_heir_personality = pious_personality
+}
+1444.11.11= {
+	add_prestige = 83
+	add_treasury = 0
+}

@@ -1,0 +1,12 @@
+owner = Z0S
+controller = Z0S
+capital = "Logone"
+is_city = yes
+culture = kanuri
+religion = shamanism
+trade_goods = ivory
+base_tax = 1
+base_production = 1
+base_manpower = 3
+add_core = Z0S
+discovered_by = sub_saharan

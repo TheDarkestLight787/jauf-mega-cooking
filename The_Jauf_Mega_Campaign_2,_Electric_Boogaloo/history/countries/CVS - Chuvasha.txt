@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+religion = converted_dynamic_faith_115
+primary_culture = russian
+capital = 303
+add_accepted_culture = chuvash
+1444.11.11= {
+	monarch = {
+		name = "Alexandra"
+		dynasty = "of Uvek"
+		adm = 2
+		dip = 4
+		mil = 2
+		birth_date = 1420.6.30
+		female = yes
+		religion = converted_dynamic_faith_115
+		culture = russian
+	}
+	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	queen = {
+		name = "Matfei"
+		dynasty = "Dmitrievich"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = CVS
+		birth_date = 1421.5.8
+		death_date = 1481.5.8
+		religion = converted_dynamic_faith_115
+		culture = russian_culture
+	}
+	add_queen_personality = secretive_personality
+	add_queen_personality = silver_tongue_personality
+	heir = {
+		name = "Malusha"
+		monarch_name = "Malusha"
+		dynasty = "Dmitrievich"
+		adm = 0
+		dip = 0
+		mil = 1
+		birth_date = 1441.1.9
+		death_date = 1506.1.9
+		female = yes
+		claim = 89
+		religion = converted_dynamic_faith_115
+		culture = russian_culture
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 65
+	add_treasury = 33
+}

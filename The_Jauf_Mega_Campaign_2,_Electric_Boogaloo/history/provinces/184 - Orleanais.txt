@@ -1,0 +1,16 @@
+owner = Z0M
+controller = Z0M
+capital = "Orléans"
+is_city = yes
+culture = cosmopolitan_french
+religion = sethianism
+trade_goods = grain
+base_tax = 6
+base_production = 1
+base_manpower = 5
+center_of_trade = 1
+add_core = Z0M
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

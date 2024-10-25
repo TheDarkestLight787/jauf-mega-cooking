@@ -1,0 +1,13 @@
+owner = OGD
+controller = OGD
+capital = "Bonga"
+is_city = yes
+culture = sidamo
+religion = converted_egyptian_faith
+trade_goods = coffee
+base_tax = 1
+base_production = 1
+base_manpower = 3
+add_core = OGD
+discovered_by = east_african
+discovered_by = muslim

@@ -1,0 +1,17 @@
+owner = SCA
+controller = SCA
+capital = "Akureyri"
+is_city = yes
+culture = icelandic
+religion = converted_dynamic_faith_115
+trade_goods = fish
+base_tax = 3
+base_production = 1
+base_manpower = 2
+add_core = ICE
+add_core = SCA
+discovered_by = western
+add_permanent_province_modifier = {
+	name = icelanding_fisher_sea
+	duration = -1
+}

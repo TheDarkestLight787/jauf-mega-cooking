@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 1
+technology_group = muslim
+religion = zurvanism
+primary_culture = tajik
+capital = 433
+mercantilism = 15
+add_accepted_culture = khorasani
+add_accepted_culture = persian
+1444.11.11= {
+	monarch = {
+		name = "Hasan"
+		dynasty = "Wasifid"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 1419.5.21
+		religion = zurvanism
+		culture = tajik
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Hayat"
+		dynasty = "Wasifid"
+		adm = 3
+		dip = 5
+		mil = 2
+		country_of_origin = YZD
+		birth_date = 1401.6.3
+		death_date = 1461.6.3
+		female = yes
+		religion = zurvanism
+		culture = oghuz
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = fertile_personality
+	heir = {
+		name = "Zal"
+		monarch_name = "Zal"
+		dynasty = "Wasifid"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 1442.8.4
+		death_date = 1507.8.4
+		claim = 89
+		religion = zurvanism
+		culture = tajik
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 54
+	add_treasury = 46
+}

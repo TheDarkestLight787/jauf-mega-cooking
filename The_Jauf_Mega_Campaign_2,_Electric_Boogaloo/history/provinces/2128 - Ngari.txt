@@ -1,0 +1,13 @@
+owner = Z1O
+controller = Z1O
+is_city = yes
+culture = zhangzhung
+religion = vajrayana
+trade_goods = gold
+base_tax = 3
+base_production = 1
+base_manpower = 2
+add_core = Z1O
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group
