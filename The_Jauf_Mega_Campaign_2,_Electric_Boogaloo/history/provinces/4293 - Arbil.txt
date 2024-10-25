@@ -1,5 +1,5 @@
-owner = ARB
-controller = ARB
+owner = IRQ
+controller = IRQ
 capital = "Arbil"
 is_city = yes
 culture = al_iraqiya_arabic
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 4
 base_production = 3
 base_manpower = 2
-add_core = ARB
+add_core = IRQ
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

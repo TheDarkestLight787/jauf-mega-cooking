@@ -682,7 +682,7 @@ defensive_ideas = {
 	}
 
 	battlefield_commisions = {
-		army_tradition_from_battle = 1.0
+		army_tradition_decay = -0.01
 	}
 	military_drill = {
 		land_morale = 0.15
