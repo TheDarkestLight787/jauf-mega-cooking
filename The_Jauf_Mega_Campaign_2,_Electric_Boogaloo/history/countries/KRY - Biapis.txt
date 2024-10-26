@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudal_theocracy
 government_rank = 2
 technology_group = muslim
-religion = zurvanism
+religion = zoroastrian
 primary_culture = mazandarani
 capital = 417
 1444.11.11= {
@@ -13,7 +13,7 @@ capital = 417
 		dip = 4
 		mil = 5
 		birth_date = 1407.12.27
-		religion = zurvanism
+		religion = zoroastrian
 		culture = mazandarani
 	}
 	add_ruler_personality = bold_fighter_personality
@@ -43,7 +43,7 @@ capital = 417
 		birth_date = 1431.3.15
 		death_date = 1496.3.15
 		claim = 89
-		religion = zurvanism
+		religion = zoroastrian
 		culture = mazandarani
 	}
 	add_heir_personality = craven_personality
