@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudal_theocracy
 government_rank = 1
 technology_group = muslim
-religion = zurvanism
+religion = zoroastrian
 primary_culture = persian
 capital = 4345
 fixed_capital = 4345
@@ -15,7 +15,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		dip = 3
 		mil = 4
 		birth_date = 1406.2.16
-		religion = zurvanism
+		religion = zoroastrian
 		culture = persian
 	}
 	add_ruler_personality = bold_fighter_personality
@@ -30,7 +30,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1399.10.7
 		death_date = 1459.10.7
 		female = yes
-		religion = zurvanism
+		religion = zoroastrian
 		culture = al_suryah_arabic
 	}
 	add_queen_personality = embezzler_personality
@@ -46,7 +46,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		death_date = 1490.8.29
 		female = yes
 		claim = 89
-		religion = zurvanism
+		religion = zoroastrian
 		culture = pecheneg
 	}
 	add_heir_personality = conqueror_personality

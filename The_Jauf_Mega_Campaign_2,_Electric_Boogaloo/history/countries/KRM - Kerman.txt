@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = english_monarchy
 government_rank = 1
 technology_group = muslim
-religion = zurvanism
+religion = zoroastrian
 primary_culture = mazandarani
 capital = 432
 add_accepted_culture = baluchi
@@ -14,7 +14,7 @@ add_accepted_culture = baluchi
 		dip = 4
 		mil = 4
 		birth_date = 1410.4.28
-		religion = zurvanism
+		religion = zoroastrian
 		culture = mazandarani
 	}
 	add_ruler_personality = pious_personality
@@ -29,7 +29,7 @@ add_accepted_culture = baluchi
 		birth_date = 1413.11.25
 		death_date = 1473.11.25
 		female = yes
-		religion = zurvanism
+		religion = zoroastrian
 		culture = mazandarani
 	}
 	add_queen_personality = drunkard_personality
@@ -45,7 +45,7 @@ add_accepted_culture = baluchi
 		death_date = 1496.11.13
 		female = yes
 		claim = 89
-		religion = zurvanism
+		religion = zoroastrian
 		culture = mazandarani
 	}
 	add_heir_personality = kind_hearted_personality
