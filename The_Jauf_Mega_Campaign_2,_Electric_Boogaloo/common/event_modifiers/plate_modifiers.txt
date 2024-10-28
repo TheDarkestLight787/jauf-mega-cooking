@@ -1,0 +1,14 @@
+
+plate_owners = {
+	prestige = 0.5
+	monthly_splendor = 1
+}
+
+curious_eatery = {
+	local_development_cost = -0.1
+}
+
+lost_plates = {
+	stability_cost_modifier = 0.2
+	prestige = -0.5
+	}

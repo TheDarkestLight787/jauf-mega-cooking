@@ -1,0 +1,119 @@
+
+
+
+country_event = {
+	id = plate_thief.1
+	title = "test"
+	desc = "test"
+	picture = COUNTRY_COLLAPSE_eventPicture
+	
+	major = yes
+	
+	trigger = {
+		is_at_war = yes
+		2041 = { controlled_by = ROOT }
+		2041 = { has_province_modifier = plate_owners }
+		}
+	
+	option = {
+		name = "test"
+		ai_chance = {
+			factor = 100
+		}
+		2041 = { remove_province_modifier = plate_owners }
+		capital_scope = {
+			save_global_event_target_as = plate_yoink
+			add_province_modifier = {
+					name = curious_eatery 
+					duration = -1
+					}
+				}
+		BNG = { country_event = { id = plate_thief.2 days = 1 } }
+		add_historical_rival = BNG
+		BNG = { add_historical_rival = ROOT }
+		}
+	}
+
+country_event = {
+	id = plate_thief.2
+	title = "test"
+	desc = "test"
+	picture = COUNTRY_COLLAPSE_eventPicture	
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "test"
+		ai_chance = {
+			factor = 100
+		}
+		add_stability = -2
+		add_prestige = -100
+		add_country_modifier = {
+			name = lost_plates
+			duration = -1
+			desc = "test"
+			}
+		}
+	}
+	
+country_event = {
+	id = plate_thief.3
+	title = "test"
+	desc = "test"
+	picture = COUNTRY_COLLAPSE_eventPicture
+	
+	major = yes
+	
+	trigger = {
+		tag = BNG
+		is_at_war = yes
+		event_target:plate_yoink = {
+				has_province_modifier = curious_eatery
+				controlled_by = BNG
+				}
+		}
+	
+	option = {
+		name = "test"
+		event_target:plate_yoink = { 
+			remove_province_modifier = curious_eatery 
+			owner = { country_event = { id = plate_thief.4 days = 1 } }
+			}
+		2041 = { add_province_modifier = {
+					name = plate_owners
+					duration = -1
+					}
+				}
+		remove_country_modifier = { lost_plates }
+		add_prestige = 50
+		add_stability = 1
+		
+	}
+}
+
+
+country_event = {
+	id = plate_thief.4
+	title = "test"
+	desc = "test"
+	picture = COUNTRY_COLLAPSE_eventPicture
+		
+	is_triggered_only = yes
+	
+	option = {
+		name = "test"
+		ai_chance = {
+			factor = 100
+		}
+		add_prestige = -1
+		clear_global_event_target = plate_yoink
+		remove_historical_rival = BNG
+		BNG = { remove_historical_rival = ROOT }
+		}
+	}
+	
+	
+	
+	
+	
