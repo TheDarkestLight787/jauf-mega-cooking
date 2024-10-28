@@ -10,6 +10,7 @@ country_event = {
 	major = yes
 	
 	trigger = {
+		NOT = { tag = BNG }
 		is_at_war = yes
 		2041 = { controlled_by = ROOT }
 		2041 = { has_province_modifier = plate_owners }
@@ -85,7 +86,7 @@ country_event = {
 					duration = -1
 					}
 				}
-		remove_country_modifier = { lost_plates }
+		remove_country_modifier = lost_plates 
 		add_prestige = 50
 		add_stability = 1
 		
