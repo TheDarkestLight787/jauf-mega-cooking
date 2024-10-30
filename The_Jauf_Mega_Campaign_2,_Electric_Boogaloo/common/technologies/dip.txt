@@ -45,6 +45,7 @@ technology = { #The Barque
 	trade_range				=	100
 	enable = cog
 	enable = galley
+	allow_client_states = yes		
 	
 	naval_engagement_width = 20
 
@@ -410,7 +411,6 @@ technology = { #Heavy Frigates
 	
 	global_colonial_growth  = 	25	
 	range					=	150
-	allow_client_states = yes		
 
 	
 	enable = heavy_frigate
