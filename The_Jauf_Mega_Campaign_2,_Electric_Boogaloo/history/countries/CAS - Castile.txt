@@ -3,7 +3,7 @@ add_government_reform = feudal_theocracy
 government_rank = 1
 technology_group = muslim
 religion = converted_dynamic_faith_113
-primary_culture = al_suryah_arabic
+primary_culture = dynamic-al_suryah_arabic-soninke-culture-num1
 capital = 217
 add_accepted_culture = andalucian
 1444.11.11= {
@@ -15,7 +15,7 @@ add_accepted_culture = andalucian
 		mil = 4
 		birth_date = 1402.6.4
 		religion = converted_dynamic_faith_113
-		culture = al_suryah_arabic
+		culture = dynamic-al_suryah_arabic-soninke-culture-num1
 	}
 	add_ruler_personality = entrepreneur_personality
 	add_ruler_personality = lawgiver_personality

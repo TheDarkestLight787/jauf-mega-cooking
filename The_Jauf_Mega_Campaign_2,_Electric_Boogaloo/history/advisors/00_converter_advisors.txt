@@ -237,7 +237,7 @@ advisor = {
 		date = 944.9.27
 }
 advisor = {
-		name = "Blažena"
+		name = "Blaï¿½ena"
 		death_date = 985.8.12
 		female = yes
 		religion = catholic
@@ -249,7 +249,7 @@ advisor = {
 		date = 936.8.12
 }
 advisor = {
-		name = "Ökar"
+		name = "ï¿½kar"
 		death_date = 977.7.7
 		religion = vajrayana
 		culture = tibetan
@@ -388,7 +388,7 @@ advisor = {
 		date = 925.1.18
 }
 advisor = {
-		name = "Gödke"
+		name = "Gï¿½dke"
 		death_date = 993.6.24
 		religion = converted_dynamic_faith_115
 		culture = saxon
@@ -637,7 +637,7 @@ advisor = {
 		date = 959.9.13
 }
 advisor = {
-		name = "Arikêcari"
+		name = "Arikï¿½cari"
 		death_date = 984.1.19
 		religion = confucianism
 		culture = tamil
@@ -1120,7 +1120,7 @@ advisor = {
 		date = 946.3.13
 }
 advisor = {
-		name = "Áidná"
+		name = "ï¿½idnï¿½"
 		death_date = 1001.11.24
 		female = yes
 		religion = converted_dynamic_faith_115
@@ -1144,7 +1144,7 @@ advisor = {
 		date = 952.8.23
 }
 advisor = {
-		name = "Väino"
+		name = "Vï¿½ino"
 		death_date = 996.3.11
 		religion = finnish_pagan
 		culture = estonian
@@ -1168,7 +1168,7 @@ advisor = {
 advisor = {
 		name = "Zeteres"
 		death_date = 997.1.5
-		religion = converted_egyptian_faith
+		religion = kemet
 		culture = old_egyptian
 		advisor_id = 33594792
 		location = 2769
@@ -1179,7 +1179,7 @@ advisor = {
 advisor = {
 		name = "Xenon"
 		death_date = 981.1.11
-		religion = converted_egyptian_faith
+		religion = kemet
 		culture = old_egyptian
 		advisor_id = 33613765
 		location = 2769
@@ -1190,7 +1190,7 @@ advisor = {
 advisor = {
 		name = "Therapon"
 		death_date = 1001.3.12
-		religion = converted_egyptian_faith
+		religion = kemet
 		culture = old_egyptian
 		advisor_id = 50345497
 		location = 2769
@@ -1202,7 +1202,7 @@ advisor = {
 		name = "Minoo"
 		death_date = 993.7.11
 		female = yes
-		religion = converted_egyptian_faith
+		religion = kemet
 		culture = al_suryah_arabic
 		advisor_id = 83904971
 		location = 2769
@@ -1211,7 +1211,7 @@ advisor = {
 		date = 944.7.11
 }
 advisor = {
-		name = "Päivi"
+		name = "Pï¿½ivi"
 		death_date = 1004.3.30
 		female = yes
 		religion = converted_dynamic_faith_115
@@ -1223,7 +1223,7 @@ advisor = {
 		date = 955.3.30
 }
 advisor = {
-		name = "Ríkúlfr"
+		name = "Rï¿½kï¿½lfr"
 		death_date = 991.1.10
 		religion = converted_dynamic_faith_115
 		culture = dynamic-norse-saxon-culture-num1
@@ -1246,7 +1246,7 @@ advisor = {
 		date = 944.1.27
 }
 advisor = {
-		name = "Étienne"
+		name = "ï¿½tienne"
 		death_date = 983.1.22
 		religion = catholic
 		culture = cosmopolitan_french
@@ -1313,7 +1313,7 @@ advisor = {
 		date = 956.5.12
 }
 advisor = {
-		name = "Jürgen"
+		name = "Jï¿½rgen"
 		death_date = 998.7.17
 		religion = converted_dynamic_faith_115
 		culture = franconian
@@ -1475,7 +1475,7 @@ advisor = {
 		date = 955.1.19
 }
 advisor = {
-		name = "Þorbrandr"
+		name = "ï¿½orbrandr"
 		death_date = 990.2.14
 		religion = converted_dynamic_faith_115
 		culture = dynamic-norse-saxon-culture-num1
@@ -1486,7 +1486,7 @@ advisor = {
 		date = 941.2.14
 }
 advisor = {
-		name = "Günther"
+		name = "Gï¿½nther"
 		death_date = 992.6.7
 		religion = converted_dynamic_faith_115
 		culture = dynamic-norse-saxon-culture-num1
@@ -1576,7 +1576,7 @@ advisor = {
 		date = 914.1.16
 }
 advisor = {
-		name = "Ánrothán"
+		name = "ï¿½nrothï¿½n"
 		death_date = 1002.2.23
 		religion = ibadi
 		culture = highland_scottish
@@ -1898,7 +1898,7 @@ advisor = {
 		date = 950.10.14
 }
 advisor = {
-		name = "Niakhaté"
+		name = "Niakhatï¿½"
 		death_date = 1004.2.25
 		religion = shamanism
 		culture = mali
@@ -1978,7 +1978,7 @@ advisor = {
 		date = 952.3.12
 }
 advisor = {
-		name = "Sealggá"
+		name = "Sealggï¿½"
 		death_date = 977.8.20
 		female = yes
 		religion = finnish_pagan
@@ -2013,7 +2013,7 @@ advisor = {
 		date = 933.11.25
 }
 advisor = {
-		name = "Sárra"
+		name = "Sï¿½rra"
 		death_date = 975.10.6
 		religion = finnish_pagan
 		culture = sapmi
@@ -2264,7 +2264,7 @@ advisor = {
 		date = 929.8.8
 }
 advisor = {
-		name = "Sanç"
+		name = "Sanï¿½"
 		death_date = 985.2.7
 		religion = catholic
 		culture = catalan
@@ -2401,7 +2401,7 @@ advisor = {
 		date = 933.2.11
 }
 advisor = {
-		name = "Mózes"
+		name = "Mï¿½zes"
 		death_date = 994.1.26
 		religion = converted_dynamic_faith_112
 		culture = hungarian
@@ -2459,7 +2459,7 @@ advisor = {
 		date = 942.2.11
 }
 advisor = {
-		name = "Carlòta"
+		name = "Carlï¿½ta"
 		death_date = 1000.3.31
 		female = yes
 		religion = jewish
@@ -2506,7 +2506,7 @@ advisor = {
 		date = 929.3.12
 }
 advisor = {
-		name = "Awo N´nche"
+		name = "Awo Nï¿½nche"
 		death_date = 1015.8.1
 		religion = shamanism
 		culture = aka
@@ -2674,7 +2674,7 @@ advisor = {
 		date = 929.2.7
 }
 advisor = {
-		name = "Éléonore"
+		name = "ï¿½lï¿½onore"
 		death_date = 1003.1.4
 		female = yes
 		religion = catholic
@@ -2698,7 +2698,7 @@ advisor = {
 		date = 933.3.30
 }
 advisor = {
-		name = "Maraikkâtu"
+		name = "Maraikkï¿½tu"
 		death_date = 981.9.18
 		female = yes
 		religion = hinduism
@@ -3168,7 +3168,7 @@ advisor = {
 		date = 940.3.13
 }
 advisor = {
-		name = "Hüüp"
+		name = "Hï¿½ï¿½p"
 		death_date = 994.10.9
 		female = yes
 		religion = converted_dynamic_faith_115
@@ -3192,7 +3192,7 @@ advisor = {
 		date = 952.9.22
 }
 advisor = {
-		name = "Ýr"
+		name = "ï¿½r"
 		death_date = 968.1.26
 		female = yes
 		religion = converted_dynamic_faith_115
@@ -3271,7 +3271,7 @@ advisor = {
 		date = 933.5.3
 }
 advisor = {
-		name = "Törtogul"
+		name = "Tï¿½rtogul"
 		death_date = 983.3.20
 		religion = siberian_pagan
 		culture = kirgiz
@@ -3363,7 +3363,7 @@ advisor = {
 		date = 960.11.30
 }
 advisor = {
-		name = "Étienne"
+		name = "ï¿½tienne"
 		death_date = 979.7.14
 		religion = catholic
 		culture = cosmopolitan_french
@@ -3386,7 +3386,7 @@ advisor = {
 		date = 928.2.25
 }
 advisor = {
-		name = "Mélisende"
+		name = "Mï¿½lisende"
 		death_date = 991.7.22
 		female = yes
 		religion = converted_dynamic_faith_115
@@ -3559,7 +3559,7 @@ advisor = {
 		date = 943.5.8
 }
 advisor = {
-		name = "František"
+		name = "Frantiï¿½ek"
 		death_date = 977.9.17
 		religion = catholic
 		culture = sorbian
@@ -3640,7 +3640,7 @@ advisor = {
 		name = "Eurydice"
 		death_date = 1018.10.31
 		female = yes
-		religion = converted_egyptian_faith
+		religion = kemet
 		culture = old_egyptian
 		advisor_id = 74049
 		location = 2313
@@ -3651,7 +3651,7 @@ advisor = {
 advisor = {
 		name = "Timoleon"
 		death_date = 1000.6.5
-		religion = converted_egyptian_faith
+		religion = kemet
 		culture = old_egyptian
 		advisor_id = 67136717
 		location = 2313
@@ -3783,7 +3783,7 @@ advisor = {
 		date = 948.12.24
 }
 advisor = {
-		name = "Adalaïda"
+		name = "Adalaï¿½da"
 		death_date = 998.1.11
 		female = yes
 		religion = sethianism
@@ -3795,7 +3795,7 @@ advisor = {
 		date = 949.1.11
 }
 advisor = {
-		name = "Dàvi"
+		name = "Dï¿½vi"
 		death_date = 996.8.7
 		religion = sethianism
 		culture = arpitan
@@ -3863,7 +3863,7 @@ advisor = {
 		date = 931.10.21
 }
 advisor = {
-		name = "Ainès"
+		name = "Ainï¿½s"
 		death_date = 994.8.3
 		female = yes
 		religion = sethianism
@@ -3875,7 +3875,7 @@ advisor = {
 		date = 945.8.3
 }
 advisor = {
-		name = "Tönpa"
+		name = "Tï¿½npa"
 		death_date = 982.3.31
 		religion = bon
 		culture = zhangzhung
@@ -3931,7 +3931,7 @@ advisor = {
 		date = 935.9.18
 }
 advisor = {
-		name = "Audoïn"
+		name = "Audoï¿½n"
 		death_date = 998.9.8
 		religion = sethianism
 		culture = arpitan
@@ -3965,7 +3965,7 @@ advisor = {
 		date = 934.10.23
 }
 advisor = {
-		name = "Arngrímr"
+		name = "Arngrï¿½mr"
 		death_date = 989.2.1
 		religion = converted_dynamic_faith_115
 		culture = dynamic-norse-saxon-culture-num1
@@ -4241,7 +4241,7 @@ advisor = {
 		name = "Awrala"
 		death_date = 993.2.26
 		female = yes
-		religion = converted_egyptian_faith
+		religion = kemet
 		culture = somali
 		advisor_id = 50367435
 		location = 361
@@ -4433,7 +4433,7 @@ advisor = {
 		date = 967.8.25
 }
 advisor = {
-		name = "Ouankoÿ"
+		name = "Ouankoï¿½"
 		death_date = 981.4.26
 		religion = shamanism
 		culture = hausa
@@ -4878,7 +4878,7 @@ advisor = {
 		date = 928.12.19
 }
 advisor = {
-		name = "Çagri"
+		name = "ï¿½agri"
 		death_date = 994.11.5
 		religion = sunni
 		culture = oghuz
@@ -5013,7 +5013,7 @@ advisor = {
 		date = 929.2.25
 }
 advisor = {
-		name = "Gyelsé"
+		name = "Gyelsï¿½"
 		death_date = 989.2.12
 		religion = bon
 		culture = gyalrong
@@ -5106,7 +5106,7 @@ advisor = {
 		date = 941.9.26
 }
 advisor = {
-		name = "Xašayar"
+		name = "Xaï¿½ayar"
 		death_date = 999.3.28
 		religion = sunni
 		culture = afghani
@@ -5233,7 +5233,7 @@ advisor = {
 		date = 949.1.11
 }
 advisor = {
-		name = "Mangpojé"
+		name = "Mangpojï¿½"
 		death_date = 1006.8.3
 		female = yes
 		religion = bon
@@ -5382,7 +5382,7 @@ advisor = {
 		date = 948.4.13
 }
 advisor = {
-		name = "Çat"
+		name = "ï¿½at"
 		death_date = 992.9.1
 		religion = converted_dynamic_faith_115
 		culture = khazar
@@ -5393,7 +5393,7 @@ advisor = {
 		date = 943.9.1
 }
 advisor = {
-		name = "Yençepi"
+		name = "Yenï¿½epi"
 		death_date = 995.3.26
 		religion = converted_dynamic_faith_115
 		culture = khazar
@@ -5473,7 +5473,7 @@ advisor = {
 		date = 949.1.5
 }
 advisor = {
-		name = "Ággi"
+		name = "ï¿½ggi"
 		death_date = 1002.1.25
 		religion = finnish_pagan
 		culture = sapmi
@@ -5484,7 +5484,7 @@ advisor = {
 		date = 953.1.25
 }
 advisor = {
-		name = "Lágon"
+		name = "Lï¿½gon"
 		death_date = 1008.1.25
 		religion = finnish_pagan
 		culture = sapmi
@@ -5518,7 +5518,7 @@ advisor = {
 		date = 957.3.3
 }
 advisor = {
-		name = "Chöden"
+		name = "Chï¿½den"
 		death_date = 983.2.9
 		female = yes
 		religion = bon
@@ -6318,7 +6318,7 @@ advisor = {
 		date = 965.4.19
 }
 advisor = {
-		name = "Eterscél"
+		name = "Eterscï¿½l"
 		death_date = 1004.1.22
 		religion = catholic
 		culture = irish
@@ -6340,7 +6340,7 @@ advisor = {
 		date = 950.10.15
 }
 advisor = {
-		name = "Ælfric"
+		name = "ï¿½lfric"
 		death_date = 1018.7.24
 		religion = catholic
 		culture = anglosaxon
@@ -6554,7 +6554,7 @@ advisor = {
 		date = 921.1.19
 }
 advisor = {
-		name = "Namandjé"
+		name = "Namandjï¿½"
 		death_date = 987.11.6
 		female = yes
 		religion = ibadi
@@ -6768,7 +6768,7 @@ advisor = {
 		date = 963.6.22
 }
 advisor = {
-		name = "Sirçan"
+		name = "Sirï¿½an"
 		death_date = 991.1.7
 		religion = confucianism
 		culture = khalkha
@@ -6779,7 +6779,7 @@ advisor = {
 		date = 942.1.7
 }
 advisor = {
-		name = "Könçek"
+		name = "Kï¿½nï¿½ek"
 		death_date = 980.2.16
 		religion = nestorian
 		culture = khalkha
@@ -6858,7 +6858,7 @@ advisor = {
 		date = 931.1.8
 }
 advisor = {
-		name = "Wöser"
+		name = "Wï¿½ser"
 		death_date = 984.10.28
 		female = yes
 		religion = bon
@@ -7018,7 +7018,7 @@ advisor = {
 		date = 931.3.16
 }
 advisor = {
-		name = "Temülün"
+		name = "Temï¿½lï¿½n"
 		death_date = 985.8.6
 		female = yes
 		religion = confucianism
@@ -7153,7 +7153,7 @@ advisor = {
 		date = 949.5.30
 }
 advisor = {
-		name = "Guðrún"
+		name = "Guï¿½rï¿½n"
 		death_date = 1002.7.12
 		female = yes
 		religion = norse_pagan
@@ -7165,7 +7165,7 @@ advisor = {
 		date = 953.7.12
 }
 advisor = {
-		name = "Játvarðr"
+		name = "Jï¿½tvarï¿½r"
 		death_date = 1012.7.26
 		religion = norse_pagan
 		culture = norse
@@ -7176,7 +7176,7 @@ advisor = {
 		date = 963.7.26
 }
 advisor = {
-		name = "Signý"
+		name = "Signï¿½"
 		death_date = 990.11.16
 		female = yes
 		religion = norse_pagan
@@ -7188,7 +7188,7 @@ advisor = {
 		date = 941.11.16
 }
 advisor = {
-		name = "Skjöldr"
+		name = "Skjï¿½ldr"
 		death_date = 1014.6.18
 		religion = norse_pagan
 		culture = norse
@@ -7199,7 +7199,7 @@ advisor = {
 		date = 965.6.18
 }
 advisor = {
-		name = "Þórólfr"
+		name = "ï¿½ï¿½rï¿½lfr"
 		death_date = 991.5.27
 		religion = norse_pagan
 		culture = norse
@@ -7289,7 +7289,7 @@ advisor = {
 		date = 910.7.3
 }
 advisor = {
-		name = "Šahin"
+		name = "ï¿½ahin"
 		death_date = 995.8.2
 		religion = sunni
 		culture = afghani
@@ -7300,7 +7300,7 @@ advisor = {
 		date = 946.8.2
 }
 advisor = {
-		name = "Lorî"
+		name = "Lorï¿½"
 		death_date = 1003.12.22
 		female = yes
 		religion = sunni
@@ -7312,7 +7312,7 @@ advisor = {
 		date = 954.12.22
 }
 advisor = {
-		name = "Goštasp"
+		name = "Goï¿½tasp"
 		death_date = 994.1.23
 		religion = sunni
 		culture = afghani
@@ -7334,7 +7334,7 @@ advisor = {
 		date = 962.1.1
 }
 advisor = {
-		name = "Efšer"
+		name = "Efï¿½er"
 		death_date = 998.3.11
 		religion = sunni
 		culture = afghani
@@ -7516,7 +7516,7 @@ advisor = {
 		date = 954.10.8
 }
 advisor = {
-		name = "Sénalek"
+		name = "Sï¿½nalek"
 		death_date = 993.11.29
 		religion = vajrayana
 		culture = tibetan
@@ -7585,7 +7585,7 @@ advisor = {
 		date = 917.1.10
 }
 advisor = {
-		name = "Ñilesa"
+		name = "ï¿½ilesa"
 		death_date = 987.2.4
 		female = yes
 		religion = coptic
@@ -7734,7 +7734,7 @@ advisor = {
 		date = 952.2.19
 }
 advisor = {
-		name = "Júlia"
+		name = "Jï¿½lia"
 		death_date = 992.8.27
 		female = yes
 		religion = tengri_pagan
@@ -7802,7 +7802,7 @@ advisor = {
 		date = 948.3.6
 }
 advisor = {
-		name = "Ríkiza"
+		name = "Rï¿½kiza"
 		death_date = 1003.2.1
 		female = yes
 		religion = converted_dynamic_faith_115
@@ -7814,7 +7814,7 @@ advisor = {
 		date = 954.2.1
 }
 advisor = {
-		name = "Ingibjörg"
+		name = "Ingibjï¿½rg"
 		death_date = 1007.2.5
 		female = yes
 		religion = converted_dynamic_faith_115
@@ -7826,7 +7826,7 @@ advisor = {
 		date = 958.2.5
 }
 advisor = {
-		name = "Siyavoš"
+		name = "Siyavoï¿½"
 		death_date = 980.1.17
 		religion = shiite
 		culture = tajik
@@ -7837,7 +7837,7 @@ advisor = {
 		date = 931.1.17
 }
 advisor = {
-		name = "Çaka"
+		name = "ï¿½aka"
 		death_date = 1010.12.22
 		religion = shiite
 		culture = oghuz
@@ -8009,7 +8009,7 @@ advisor = {
 		date = 947.3.28
 }
 advisor = {
-		name = "Þórunn"
+		name = "ï¿½ï¿½runn"
 		death_date = 976.9.21
 		female = yes
 		religion = siberian_pagan
@@ -8021,7 +8021,7 @@ advisor = {
 		date = 927.9.21
 }
 advisor = {
-		name = "Sumarliði"
+		name = "Sumarliï¿½i"
 		death_date = 971.2.14
 		religion = siberian_pagan
 		culture = norse
@@ -8269,7 +8269,7 @@ advisor = {
 		date = 946.10.10
 }
 advisor = {
-		name = "Kätyarikka"
+		name = "Kï¿½tyarikka"
 		death_date = 983.1.24
 		female = yes
 		religion = tengri_pagan
@@ -8610,7 +8610,7 @@ advisor = {
 		date = 927.4.23
 }
 advisor = {
-		name = "Alfríðr"
+		name = "Alfrï¿½ï¿½r"
 		death_date = 1007.6.1
 		female = yes
 		religion = converted_dynamic_faith_115
@@ -8826,7 +8826,7 @@ advisor = {
 		date = 947.3.19
 }
 advisor = {
-		name = "Kiliç"
+		name = "Kiliï¿½"
 		death_date = 998.4.20
 		religion = shiite
 		culture = oghuz
@@ -8837,7 +8837,7 @@ advisor = {
 		date = 949.4.20
 }
 advisor = {
-		name = "Çagri"
+		name = "ï¿½agri"
 		death_date = 1001.6.11
 		religion = shiite
 		culture = oghuz
@@ -8926,7 +8926,7 @@ advisor = {
 		date = 950.12.25
 }
 advisor = {
-		name = "Ojír"
+		name = "Ojï¿½r"
 		death_date = 993.4.1
 		religion = catholic
 		culture = czech
@@ -9027,7 +9027,7 @@ advisor = {
 		date = 950.9.24
 }
 advisor = {
-		name = "Hellä"
+		name = "Hellï¿½"
 		death_date = 990.1.30
 		female = yes
 		religion = converted_dynamic_faith_115
@@ -9039,7 +9039,7 @@ advisor = {
 		date = 941.1.30
 }
 advisor = {
-		name = "Ferîdun"
+		name = "Ferï¿½dun"
 		death_date = 997.3.22
 		religion = sunni
 		culture = afghani
@@ -9096,7 +9096,7 @@ advisor = {
 		date = 949.4.24
 }
 advisor = {
-		name = "Donyö"
+		name = "Donyï¿½"
 		death_date = 1009.2.4
 		religion = bon
 		culture = sumpa
@@ -9142,7 +9142,7 @@ advisor = {
 		date = 937.10.20
 }
 advisor = {
-		name = "Détsen"
+		name = "Dï¿½tsen"
 		death_date = 975.5.1
 		religion = vajrayana
 		culture = tibetan
@@ -9236,7 +9236,7 @@ advisor = {
 		date = 922.2.19
 }
 advisor = {
-		name = "Badä"
+		name = "Badï¿½"
 		death_date = 988.2.3
 		religion = shamanism
 		culture = hausa

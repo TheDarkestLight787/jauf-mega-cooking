@@ -1,0 +1,127 @@
+
+zantorgfx_sprite_pack = {
+	
+country_trigger = {
+	or = {
+		primary_culture = dynamic-al_suryah_arabic-soninke-culture-num1
+		tag = K01
+	}
+		
+	}
+
+sprite_infantry = {
+		0 = KAR_INFANTRY_1
+		1 = TUR_NEW_INFANTRY_2
+		2 = TUR_NEW_INFANTRY_3
+		3 = TUR_NEW_INFANTRY_4
+	}
+
+	sprite_cavalry = {
+		0 = KAR_CAVALRY_1
+		1 = TUR_NEW_CAVALRY_2
+		2 = TUR_NEW_CAVALRY_3
+		3 = TUR_NEW_CAVALRY_4
+	}
+
+	sprite_artillery = {
+		0 = KAR_ARTILLERY_1
+		1 = TUR_NEW_ARTILLERY_2
+		2 = TUR_NEW_ARTILLERY_3
+		3 = TUR_NEW_ARTILLERY_4
+	}
+}
+
+jewish_mega_sprite_pack = {
+	# Tests against every tag in game
+	country_trigger = {
+		or = {
+			culture_group = israelite
+			primary_culture = dynamic-bengali-magogic-culture-num1
+			religion = converted_dynamic_faith_114
+		}
+	}
+
+	sprite_infantry = {
+		0 = ISR_INFANTRY_1
+		1 = ISR_INFANTRY_2
+		2 = ISR_INFANTRY_3
+		3 = ISR_INFANTRY_3
+	}
+
+	sprite_cavalry = {
+		0 = ISR_CAVALRY_1
+		1 = ISR_CAVALRY_2
+		2 = ISR_CAVALRY_3
+		3 = ISR_CAVALRY_3
+	}
+
+	sprite_artillery = {
+		0 = ISR_ARTILLERY_1
+		1 = ISR_ARTILLERY_2
+		2 = ISR_ARTILLERY_3
+		3 = ISR_ARTILLERY_3
+	}
+}
+
+egyptiangfx_sprite_pack = {
+	
+country_trigger = {
+		primary_culture = old_egyptian
+	}
+
+sprite_infantry = {
+		0 = SYR_INFANTRY_1
+		1 = SYR_INFANTRY_2
+		2 = SYR_INFANTRY_3
+		3 = SYR_INFANTRY_4
+	}
+
+	sprite_cavalry = {
+		0 = SYR_CAVALRY_1
+		1 = SYR_CAVALRY_2
+		2 = SYR_CAVALRY_3
+		3 = SYR_CAVALRY_4
+	}
+
+	sprite_artillery = {
+		0 = SYR_ARTILLERY_1
+		1 = SYR_ARTILLERY_2
+		2 = SYR_ARTILLERY_3
+		3 = SYR_ARTILLERY_4
+	}
+}
+
+mycenaegfx_sprite_pack = {
+	
+country_trigger = {
+		religion = hellenic_pagan
+		or = {
+			primary_culture = greek
+			primary_culture = anatolian
+			primary_culture = magnagreek
+			primary_culture = pontic_greek
+			primary_culture = dynamic-greek-mongol-culture-num1
+		}
+	}
+
+sprite_infantry = {
+		0 = TRE_INFANTRY_1
+		1 = TRE_INFANTRY_2
+		2 = TRE_INFANTRY_3
+		3 = TRE_INFANTRY_4
+	}
+
+	sprite_cavalry = {
+		0 = TRE_CAVALRY_1
+		1 = TRE_CAVALRY_2
+		2 = TRE_CAVALRY_3
+		3 = TRE_CAVALRY_4
+	}
+
+	sprite_artillery = {
+		0 = TRE_ARTILLERY_1
+		1 = TRE_ARTILLERY_2
+		2 = TRE_ARTILLERY_3
+		3 = TRE_ARTILLERY_4
+	}
+}

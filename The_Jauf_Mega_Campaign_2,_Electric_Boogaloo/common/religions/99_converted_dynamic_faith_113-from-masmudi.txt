@@ -1,4 +1,4 @@
-muslim = {
+gnostic = {
 	converted_dynamic_faith_113 = {
 		color = { 52 13 147 }
 		icon =  179
@@ -17,30 +17,30 @@ muslim = {
 		technology_cost = -0.1
 	
 
-		global_tax_modifier = -0.1
-		idea_cost = -0.2
+		#global_tax_modifier = -0.1
+		#idea_cost = -0.2
 	
 
 		discipline = 0.05
 	
 
-		heir_chance = 1
+		#heir_chance = 1
 	
 }
 		country_as_secondary = {
  
-		technology_cost = -0.05
+		#technology_cost = -0.05
 	
 
-		idea_cost = -0.1
+		#idea_cost = -0.1
 	
 }
 		province = {
  
-		local_missionary_strength = -0.02
+		#local_missionary_strength = -0.02
 	
 
-		local_missionary_strength = 0.01
+		#local_missionary_strength = 0.01
 	
 }
 		

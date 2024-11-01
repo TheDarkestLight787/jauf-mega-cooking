@@ -1,0 +1,31 @@
+﻿jewish_mega_sprite_pack = {
+	# Tests against every tag in game
+	country_trigger = {
+		or = {
+			culture_group = israelite
+			primary_culture = dynamic-bengali-magogic-culture-num1
+			religion = converted_dynamic_faith_114
+		}
+	}
+
+	sprite_infantry = {
+		0 = ISR_INFANTRY_1
+		1 = ISR_INFANTRY_2
+		2 = ISR_INFANTRY_3
+		3 = ISR_INFANTRY_3
+	}
+
+	sprite_cavalry = {
+		0 = ISR_CAVALRY_1
+		1 = ISR_CAVALRY_2
+		2 = ISR_CAVALRY_3
+		3 = ISR_CAVALRY_3
+	}
+
+	sprite_artillery = {
+		0 = ISR_ARTILLERY_1
+		1 = ISR_ARTILLERY_2
+		2 = ISR_ARTILLERY_3
+		3 = ISR_ARTILLERY_3
+	}
+}

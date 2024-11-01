@@ -2051,10 +2051,14 @@ sultanate_of_rum_reform = {
 	allow_normal_conversion = yes
 	icon = "rum_sultanate"
 	potential = {
-		religion_group = muslim
+		OR = {
+			religion_group = muslim
+			religion_group = gnostic
+		}
+		
 		OR = {
 			AND = {
-				tag = RUM
+				tag = Z00
 				NOT = { map_setup = map_setup_random }
 			}
 			AND = {
@@ -2079,6 +2083,8 @@ sultanate_of_rum_reform = {
 
 	custom_attributes = {
 		locked_government_type = yes
+		enables_estate_janissaries
+		enables_estate_dhimmi = yes
 	}
 	conditional = {
 		allow = { has_dlc = "Domination" }

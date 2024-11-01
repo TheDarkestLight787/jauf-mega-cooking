@@ -1,8 +1,8 @@
-converted_egyptian_faith_rebels = {
+kemet_rebels = {
 
 	area = nation
 	government = theocracy
-	religion = converted_egyptian_faith
+	religion = kemet
 	defection = religion
 	defect_delay = 120
 	independence = none
@@ -37,7 +37,7 @@ converted_egyptian_faith_rebels = {
 		}
 		modifier = {
 			factor = 0.0
-			NOT = { religion = converted_egyptian_faith }
+			NOT = { religion = kemet }
 		}
 		modifier = {
 			factor = 0.001
@@ -81,14 +81,14 @@ converted_egyptian_faith_rebels = {
 		}
 		modifier = {
 			factor = 0.0
-			religion = converted_egyptian_faith
-			owner = { religion = converted_egyptian_faith }
+			religion = kemet
+			owner = { religion = kemet }
 		}
 		modifier = {
 			factor = 2.0
-			NOT = { religion = converted_egyptian_faith }
+			NOT = { religion = kemet }
 			any_neighbor_province = {
-				religion = converted_egyptian_faith
+				religion = kemet
 				NOT = { has_province_modifier = "forced_conversion" }
 			}
 		}
@@ -116,15 +116,15 @@ converted_egyptian_faith_rebels = {
 	}
 	siege_won_effect = {
 		if = {
-			limit = { religion = converted_egyptian_faith }
+			limit = { religion = kemet }
 			add_province_modifier = {
 				name = "religious_violence"
 				duration = 730
 			}
 		}
 		if = {
-			limit = { NOT = { religion = converted_egyptian_faith } }
-			change_religion = converted_egyptian_faith
+			limit = { NOT = { religion = kemet } }
+			change_religion = kemet
 			add_province_modifier = {
 				name = "religious_violence"
 				duration = 730
@@ -156,7 +156,7 @@ converted_egyptian_faith_rebels = {
 			add_stability = -1
 		}
 		if = {
-			limit = { religion = converted_egyptian_faith }
+			limit = { religion = kemet }
 			add_country_modifier  = {
 				name = "religious_intolerance"
 				duration = 3650
@@ -165,9 +165,9 @@ converted_egyptian_faith_rebels = {
 		if = {
 			limit = {
 				religion_group = 
-				NOT = { religion = converted_egyptian_faith }
+				NOT = { religion = kemet }
 			}
-			change_religion = converted_egyptian_faith
+			change_religion = kemet
 			force_converted = yes
 		}
 	}

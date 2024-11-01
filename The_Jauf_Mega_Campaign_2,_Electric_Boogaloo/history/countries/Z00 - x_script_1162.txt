@@ -1,10 +1,11 @@
 government = monarchy
-add_government_reform = feudal_theocracy
+add_government_reform = sultanate_of_rum_reform
 government_rank = 3
 technology_group = muslim
 religion = converted_dynamic_faith_113
 primary_culture = dynamic-al_suryah_arabic-soninke-culture-num1
 capital = 1134
+#unit_type = ottoman
 set_country_flag = ZZZ_generated_converter_nation
 1444.11.11= {
 	monarch = {

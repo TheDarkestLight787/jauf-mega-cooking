@@ -169,7 +169,7 @@
  canaanite_religion_desc: "Die kanaanitische Religion verehrt eine Reihe von Göttern und ihre Aspekte auf polytheistische Weise. Baal gilt als die Hauptgottheit in einer komplexen Hierarchie kleinerer Götter, die oft in Schreinen auf Bergen oder Hügeln verehrt wurden."
  druidism: "Druidismus"
  druidism_religion_desc: "Druiden agierten für die Kelten als eigenständige soziale Klasse. Oft als Richter und Gesetzgeber tätig, diktierten sie auch lokale religiöse Bräuche und Überzeugungen."
- kemetism: "Kemetismus"
+ kemetism: "kemetismus"
  kemetism_religion_desc: "Die Geschichte der indigenen ägyptischen Religion reicht viele tausend Jahre zurück. Die Verehrung von Ra, Atum, Sekhmet und anderen, die sich als polytheistischer Glaube manifestiert, zeigt eine tiefe Ehrfurcht vor den grundlegenden Aspekten der natürlichen Welt."
  mardukism: "Mardukismus"
  mardukism_religion_desc: "Die Geschichte des chaldäischen Pantheons reicht viele tausend Jahre zurück. Die Anhänger der chaldäischen Religion verehren Götter wie Anu, Enki und Nanna und errichten imposante Tempel zu Ehren ihres auserwählten Gottes."
@@ -210,7 +210,7 @@
  gallic_pagan_religion_desc:0 "Die Gallier waren ein stolzes und mächtiges Volk West- und Mitteleuropas, ähnlich wie ihre Nachbarn auf den britischen Inseln. Sie fanden Ruhe in der Natur und verehrten alle Dinge in der Natur."
  gaelic_pagan_religion_desc:0 "Die Gälen folgten einem Pantheon, das dem ihrer Nachbarn ähnelte, den Kelten, dem gälischen Volk, das alle Dinge in der natürlichen Welt verehrte. Druiden und Barden haben in der gälischen Kultur einen hohen Stellenwert."
  celtiberian_pagan_religion_desc:0 "Die keltischen Stämme von Iberia waren eine mysteriöse Gruppe, die größtenteils der Geschichte verloren gegangen ist. Nach dem, was wenig bekannt ist, scheinen sie den Galliern kulturell sehr ähnlich zu sein und folgten einem ähnlichen Pantheon."
- atenism_religion_desc:0 "Im Gegensatz zur polytheistischen kemetistischen Religion ist die atenistische Religion eine monotheistische Religion, die sich auf die alleinige Verehrung der Sonnenscheibe Aten konzentriert. Im Gegensatz zum Kemetismus leugnen Atenisten die Existenz anderer Götter und kriminalisieren deren Verehrung geradezu."
+ atenism_religion_desc:0 "Im Gegensatz zur polytheistischen kemetistischen Religion ist die atenistische Religion eine monotheistische Religion, die sich auf die alleinige Verehrung der Sonnenscheibe Aten konzentriert. Im Gegensatz zum kemetismus leugnen Atenisten die Existenz anderer Götter und kriminalisieren deren Verehrung geradezu."
  # Forgotten entries
  aztec_pagan:0 "Aztekisch"
  pagan_religion_reformed:0 "Neuheidnisch"

@@ -1,6 +1,6 @@
-government = monarchy
-add_government_reform = feudal_theocracy
-government_rank = 2
+government = republic
+add_government_reform = veche_republic
+government_rank = 1
 technology_group = western
 religion = ibadi
 primary_culture = dynamic-cornish-volhynian-culture-num1

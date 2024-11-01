@@ -1,5 +1,5 @@
-converted_egyptian_faith = {
-	converted_egyptian_faith = {
+kemet = {
+	kemet = {
 		color = { 127 123 82 }
 		icon =  176
 		country = {

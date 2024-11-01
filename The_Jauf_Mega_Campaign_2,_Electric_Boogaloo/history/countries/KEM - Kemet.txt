@@ -1,8 +1,8 @@
 government = monarchy
 add_government_reform = autocracy_reform
 government_rank = 3
-technology_group = east_african
-religion = animism
+technology_group = muslim
+religion = religion = kemetism
 primary_culture = old_egyptian
 capital = 361
 1444.11.11= {
