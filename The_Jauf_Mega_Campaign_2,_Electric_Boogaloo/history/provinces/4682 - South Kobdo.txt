@@ -1,5 +1,5 @@
-owner = ZUN
-controller = ZUN
+owner = MGE
+controller = MGE
 capital = "Monkhkhairkhan"
 is_city = yes
 culture = kirgiz
@@ -9,6 +9,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 add_core = CHG
-add_core = ZUN
+add_core = MGE
 discovered_by = chinese
 discovered_by = nomad_group

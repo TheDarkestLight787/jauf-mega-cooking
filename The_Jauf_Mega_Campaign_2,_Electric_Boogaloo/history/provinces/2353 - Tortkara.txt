@@ -1,5 +1,5 @@
-owner = MGE
-controller = MGE
+owner = CMN
+controller = CMN
 capital = "Tortkara"
 is_city = yes
 culture = oghuz
@@ -8,7 +8,7 @@ trade_goods = naval_supplies
 base_tax = 1
 base_production = 1
 base_manpower = 2
-add_core = MGE
+add_core = CMN
 add_core = OGZ
 discovered_by = KAZ
 discovered_by = KZH

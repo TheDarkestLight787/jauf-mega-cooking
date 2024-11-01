@@ -1,5 +1,5 @@
-owner = CMN
-controller = CMN
+owner = MGE
+controller = MGE
 capital = "Shegendyk"
 is_city = yes
 culture = kirgiz
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 add_core = CHG
-add_core = CMN
+add_core = MGE
 discovered_by = KAZ
 discovered_by = KZH
 discovered_by = muslim

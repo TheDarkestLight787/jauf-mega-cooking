@@ -1,5 +1,5 @@
-owner = MGE
-controller = MGE
+owner = CMN
+controller = CMN
 capital = "Shekty"
 is_city = yes
 culture = oghuz
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 1
 base_production = 2
 base_manpower = 2
-add_core = MGE
+add_core = CMN
 add_core = OGZ
 discovered_by = KAZ
 discovered_by = KZH

@@ -1,5 +1,5 @@
-owner = BSH
-controller = BSH
+owner = MGE
+controller = MGE
 capital = "Kerey"
 is_city = yes
 culture = kirgiz
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 3
 base_production = 1
 base_manpower = 2
-add_core = BSH
+add_core = MGE
 add_core = CHG
 discovered_by = GOL
 discovered_by = KZH

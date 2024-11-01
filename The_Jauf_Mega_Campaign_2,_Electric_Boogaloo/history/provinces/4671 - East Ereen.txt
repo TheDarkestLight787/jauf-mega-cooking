@@ -1,5 +1,5 @@
-owner = KHA
-controller = KHA
+owner = MGE
+controller = MGE
 capital = "Kalgan"
 is_city = yes
 culture = mongol
@@ -9,6 +9,6 @@ base_tax = 2
 base_production = 1
 base_manpower = 2
 add_core = CHH
-add_core = KHA
+add_core = MGE
 discovered_by = chinese
 discovered_by = nomad_group

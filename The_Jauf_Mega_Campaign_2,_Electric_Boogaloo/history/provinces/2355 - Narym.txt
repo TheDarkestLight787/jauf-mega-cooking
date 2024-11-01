@@ -1,5 +1,5 @@
-owner = Z0F
-controller = Z0F
+owner = MGE
+controller = MGE
 capital = "Narym"
 is_city = yes
 culture = nogaybak
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 add_core = NOG
-add_core = Z0F
+add_core = MGE
 discovered_by = KAS
 discovered_by = KAZ
 discovered_by = KZH

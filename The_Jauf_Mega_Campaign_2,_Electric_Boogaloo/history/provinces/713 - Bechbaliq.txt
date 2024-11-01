@@ -1,5 +1,5 @@
-owner = MGE
-controller = MGE
+owner = Z0F
+controller = Z0F
 capital = "Bechbaliq"
 is_city = yes
 culture = uyghur
@@ -8,6 +8,6 @@ trade_goods = salt
 base_tax = 2
 base_production = 2
 base_manpower = 3
-add_core = MGE
+add_core = Z0F
 discovered_by = chinese
 discovered_by = nomad_group

@@ -1,5 +1,5 @@
-owner = Z0F
-controller = Z0F
+owner = MGE
+controller = MGE
 capital = "Urzhar"
 is_city = yes
 culture = uyghur
@@ -8,6 +8,6 @@ trade_goods = salt
 base_tax = 3
 base_production = 2
 base_manpower = 2
-add_core = Z0F
+add_core = MGE
 discovered_by = chinese
 discovered_by = nomad_group
