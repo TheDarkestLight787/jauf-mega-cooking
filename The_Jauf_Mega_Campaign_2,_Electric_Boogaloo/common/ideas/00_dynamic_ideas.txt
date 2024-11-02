@@ -113,6 +113,44 @@ dynamic-armenian-greek-culture-num1_ideas = {
 	}
 }
 
+BNG_ideas = {
+	start = {
+        land_morale = 0.1
+        global_manpower_modifier = 0.25
+    }
+    bonus = {
+		discipline = 0.05
+    }
+    trigger = {
+        culture = dynamic-bengali-magogic-culture-num1
+    }
+    free = yes
+    sia_royal_poets = {
+		prestige = 0.5
+		adm_advisor_cost = -0.15
+    }
+    sia_advanced_elephant_warfare = {
+		cavalry_power = 0.15
+		cavalry_fire = 1
+    }
+    sia_experienced_ambassadors = {
+        diplomatic_reputation = 2
+    }
+    sia_encourage_immigration = {
+        development_cost = -0.1
+    }
+    sia_integrating_the_realm = {
+        diplomatic_annexation_cost = -0.15
+        culture_conversion_cost = -0.15
+    }
+    sia_royal_absolutism = {
+        global_autonomy = -0.05
+		yearly_absolutism = 0.5
+    }
+    sia_education_reform = {
+        idea_cost = -0.1
+    }
+}
 
 dynamic-al_suryah_arabic-soninke-culture-num1_ideas = {
 	start = {
@@ -127,7 +165,7 @@ dynamic-al_suryah_arabic-soninke-culture-num1_ideas = {
 	zantori_legions = {
 		discipline = 0.05
 	}
-	rum_king_of_the_east_and_west = {
+	zantor_lords_of_north_and_south = {
 		core_creation = -0.20
 		num_accepted_cultures = 1
 	}
