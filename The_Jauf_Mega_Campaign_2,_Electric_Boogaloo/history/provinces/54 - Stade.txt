@@ -1,5 +1,5 @@
-owner = VER
-controller = VER
+owner = DTT
+controller = DTT
 capital = "Stade"
 is_city = yes
 culture = dynamic-norse-saxon-culture-num1
@@ -8,7 +8,7 @@ trade_goods = fish
 base_tax = 1
 base_production = 1
 base_manpower = 2
-add_core = VER
+add_core = DTT
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman

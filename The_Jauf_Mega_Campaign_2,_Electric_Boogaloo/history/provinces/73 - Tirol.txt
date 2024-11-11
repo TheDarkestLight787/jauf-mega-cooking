@@ -1,5 +1,5 @@
-owner = BAV
-controller = BAV
+owner = Z0G
+controller = Z0G
 capital = "Innsbruck"
 is_city = yes
 culture = austrian
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = HAB
-add_core = BAV
+add_core = Z0G
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman

@@ -131,7 +131,7 @@ vassal=
 	end_date="1836.1.1"
 }
 
-vassal=
+march=
 {
 	first="KRY"
 	second="YZD"
@@ -211,7 +211,7 @@ vassal=
 	end_date="1836.1.1"
 }
 
-vassal=
+march=
 {
 	first="BUR"
 	second="TUS"
@@ -219,7 +219,7 @@ vassal=
 	end_date="1836.1.1"
 }
 
-vassal=
+march=
 {
 	first="BUR"
 	second="MOD"
@@ -227,7 +227,7 @@ vassal=
 	end_date="1836.1.1"
 }
 
-vassal=
+march=
 {
 	first="BUR"
 	second="VEN"
@@ -235,7 +235,7 @@ vassal=
 	end_date="1836.1.1"
 }
 
-vassal=
+march=
 {
 	first="Z01"
 	second="Z0C"
@@ -243,7 +243,7 @@ vassal=
 	end_date="1836.1.1"
 }
 
-vassal=
+march=
 {
 	first="MOS"
 	second="Z16"
@@ -259,7 +259,7 @@ vassal=
 	end_date="1836.1.1"
 }
 
-vassal=
+march=
 {
 	first="MOS"
 	second="CRI"
@@ -275,7 +275,7 @@ vassal=
 	end_date="1836.1.1"
 }
 
-vassal=
+march=
 {
 	first="SCA"
 	second="HSA"
@@ -293,21 +293,13 @@ vassal=
 
 vassal=
 {
-	first="SCA"
-	second="DNZ"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-vassal=
-{
 	first="ENG"
 	second="Z1P"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
-vassal=
+march=
 {
 	first="Z02"
 	second="SYR"
@@ -315,7 +307,7 @@ vassal=
 	end_date="1836.1.1"
 }
 
-vassal=
+march=
 {
 	first="Z02"
 	second="NBI"
@@ -323,7 +315,7 @@ vassal=
 	end_date="1836.1.1"
 }
 
-vassal=
+march=
 {
 	first="KRY"
 	second="FRS"
@@ -355,7 +347,7 @@ vassal=
 	end_date="1836.1.1"
 }
 
-vassal=
+march=
 {
 	first="Z00"
 	second="Z0I"
@@ -363,7 +355,7 @@ vassal=
 	end_date="1836.1.1"
 }
 
-vassal=
+march=
 {
 	first="BNG"
 	second="Z1I"

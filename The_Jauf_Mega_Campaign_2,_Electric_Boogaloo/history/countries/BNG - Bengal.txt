@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = plutocratic_reform
 government_rank = 3
-technology_group = eastern
+technology_group = indian
 religion = converted_dynamic_faith_114
 primary_culture = dynamic-bengali-magogic-culture-num1
 capital = 2399
