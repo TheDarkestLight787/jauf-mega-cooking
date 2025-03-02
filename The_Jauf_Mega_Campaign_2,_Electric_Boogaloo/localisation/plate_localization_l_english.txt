@@ -1,0 +1,6 @@
+l_english:
+plate_owners:0 "Plate Owners"
+
+curious_eatery:0 "Curious Eatery"
+
+lost_plates:0 "Lost Plates!!!"

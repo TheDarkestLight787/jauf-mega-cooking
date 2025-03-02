@@ -2690,7 +2690,7 @@ mamluk_government = {
 		religion_group = muslim
 		OR = {
 			AND = {
-				tag = MAM
+				tag = Z02
 				NOT = { map_setup = map_setup_random }
 			}
 			have_had_reform = mamluk_government

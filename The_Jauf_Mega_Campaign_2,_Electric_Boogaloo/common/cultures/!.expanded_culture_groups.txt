@@ -1285,6 +1285,6 @@ lost_cultures_group = {
 		primary = ATL
 	}
 	old_egyptian = {
-		primary = KEM
+		primary = Z02
 	}
 }

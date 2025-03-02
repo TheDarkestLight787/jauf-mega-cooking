@@ -4481,7 +4481,7 @@ diwan_al_khass_reform = {
 	allow_normal_conversion = yes
 	potential = {
 		has_dlc = "King of Kings"
-		is_or_was_tag = { tag = MAM }
+		is_or_was_tag = { tag = Z02 }
 		
 	}
 	modifiers = {

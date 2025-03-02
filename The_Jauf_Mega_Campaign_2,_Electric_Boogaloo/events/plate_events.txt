@@ -3,8 +3,8 @@
 
 country_event = {
 	id = plate_thief.1
-	title = "test"
-	desc = "test"
+	title = "odd_tableware_looted"
+	desc = "stole_plates_from_goat"
 	picture = COUNTRY_COLLAPSE_eventPicture
 	
 	major = yes
@@ -17,7 +17,7 @@ country_event = {
 		}
 	
 	option = {
-		name = "test"
+		name = "option_stole_plates_from_goat"
 		ai_chance = {
 			factor = 100
 		}
@@ -37,14 +37,14 @@ country_event = {
 
 country_event = {
 	id = plate_thief.2
-	title = "test"
-	desc = "test"
+	title = "plate_thief_goat_pov"
+	desc = "goat_sad_plates_gone"
 	picture = COUNTRY_COLLAPSE_eventPicture	
 	
 	is_triggered_only = yes
 	
 	option = {
-		name = "test"
+		name = "goat_lost_plates_option"
 		ai_chance = {
 			factor = 100
 		}
@@ -60,8 +60,8 @@ country_event = {
 	
 country_event = {
 	id = plate_thief.3
-	title = "test"
-	desc = "test"
+	title = "goat_retrieves_plates_title"
+	desc = "goat_retrieves_plates_desc"
 	picture = COUNTRY_COLLAPSE_eventPicture
 	
 	major = yes
@@ -76,7 +76,7 @@ country_event = {
 		}
 	
 	option = {
-		name = "test"
+		name = "goat_retrieves_plates_option"
 		event_target:plate_yoink = { 
 			remove_province_modifier = curious_eatery 
 			owner = { country_event = { id = plate_thief.4 days = 1 } }
@@ -96,14 +96,14 @@ country_event = {
 
 country_event = {
 	id = plate_thief.4
-	title = "test"
-	desc = "test"
+	title = "lost_plates_to_goat_title"
+	desc = "lost_plates_to_goat_desc"
 	picture = COUNTRY_COLLAPSE_eventPicture
 		
 	is_triggered_only = yes
 	
 	option = {
-		name = "test"
+		name = "lost_plates_to_goat_option"
 		ai_chance = {
 			factor = 100
 		}

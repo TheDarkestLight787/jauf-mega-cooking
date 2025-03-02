@@ -268,3 +268,36 @@
  plati_ck_new_flavor.EVTOPTC38: "No, we have no intentions of dancing to the magis tunes."
  EST_INFLUENCE_MAGI_PLATI: "Guided by Ahuramazda"
  
+
+
+plate_owners:0 "Glorious Gold Gilded Plates"
+desc_plate_owners:0 "Plates precisely placed in protective partitions, preventing potential peril, preserving Precious pristine presentation, and providing perfect peace of mind."
+curious_eatery:0 "Curious Eatery"
+desc_curious_eatery:0 "Pristine plates, polished to perfection, proudly perch on pedestal displays, presenting their precious golden sheen and painstakingly painted patterns, parading their prestige to patrons with a penchant for the profound."
+lost_plates:0 "Lost Plates!!!"
+desc_lost_plates:0 "Get them back, back bak get.. PLATE. Get the plates back. GET THEM BACK!!"
+Get_them_back_get_them_back_get_them_back:0 "Get them back, back bak get.. PLATE. Get the plates back. GET THEM BACK!!"
+odd_tableware:0 "Odd Tableware Looted >;)"
+
+odd_tableware_looted:0 "Odd Tableware Looted?"
+
+plate_thief.1.desc:0 "We have yoinked some unusual plates from the so called "Mormons." The guardians of the "Plate Chamber" in Manipur fought to their last breath begging us to take anything we want but to leave the plates. We wouldn't have given them a second thought with how strange they look, but with how much the Mormons protested... Surely that means there is value in taking them? Perhaps we can make use of these plates as an atraction of sorts. An eatery where the rich and famous from across the lands will travel to our capital for a chance to eat off of these most curious and valuable of plates."
+
+stole_plates_from_goat:0 "We yoinked the plates. Get good scrub. What a heckin' loser man."
+
+option_stole_plates_from_goat:0 "Set up the Curious Eatery!"
+
+
+plate_thief_goat_pov:0 "The Sacrad Plates STOLEN!!"
+goat_sad_plates_gone:0 "The foe has marched into our most sacred of cities. Manipur has been put to the sword and its temple ransacked! No matter how hard we fought or how fiercely we pleaded, those monsters even took our sacred plates! Without the ancient relics of Joseph Schmidt himself, how can we call ourselves true Mormons!? The foe has no idea what they have unleashed. For they not only stole our golden plates, but also any chance at our mercy. We will burn their temples to the ground and retri- wait... They are using the plates for SPECIAL CATERING!? This will not go unpunished. We must find the so called "Curious Eatery" and slay every heathen that would despoil our plates!"
+goat_lost_plates_option:0 "No mercy, no rest, no end to our vengeance!"
+
+
+goat_retrieves_plates_title:0 "Our Plates Restored! :>"
+goat_retrieves_plates_desc:0 "At long last we have restored the sacred plates to their rightful home! This day will be forever marked in our calendars as a victory for our faith, our nation and our ruler! We will make sure that never again will anyone approach our most holy of relics. None will dare steal the golden plates ever!"
+goat_retrieves_plates_option:0 "None would dare! Never again!.. Right?"
+
+
+lost_plates_to_goat_title:0 "Closure of The Curious Eatery"
+lost_plates_to_goat_desc:0 "In what can only be described as a fate worse than death, we have lost the gold plates we stole from the Mormons. They threw themselves against the walls of the eatery like rabbid dogs hungering to get inside, but as swiftly and violently as they rampaged in, they left. There will be no more use for the Curious Eatery with the strange plates gone..."
+lost_plates_to_goat_option:0 "Surely no one thinks less of us for losing such strange curios anyway."

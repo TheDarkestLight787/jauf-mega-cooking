@@ -271,7 +271,7 @@ mnd_siam_2 = {
 					NOT = { tag = SIA }
 					NOT = { exists = SIA }
 				}
-				change_tag = SIA
+				# change_tag = SIA
 				on_change_tag_effect = yes
 				if = {
 					limit = { has_custom_ideas = no }

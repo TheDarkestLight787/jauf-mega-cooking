@@ -1945,12 +1945,35 @@ sia_royal_poets:0 "Royal Poets"
  dynamic-chihan-chihan-culture-num1_ideas_start:0 "Sino-Tuyuhun Traditions"
  dynamic-chihan-chihan-culture-num1_ideas_bonus:0 "Sino-Tuyuhun Ambitions"
 
- zantori_legions:0 "Zantori Legions"
- zantori_legions_desc:0 "The armies of Zantor are professionally trained..."
+ TFT_ideas:0 "Tzarfatic Ideas"
+ TFT_ideas_start:0 "Tzarfatic Traditions"
+ TFT_ideas_bonus:0 "Tzarfatic Ambitions"
+
+ kemet_ideas:0 "Kemetic Ideas"
+ kemet_ideas_start:0 "Kemetic Traditions"
+ kemet_ideas_bonus:0 "Kemetic Ambitions"
+
+ zantori_legions:0 "Iron Zantori Legions"
+ zantori_legions_desc:0 "The Legions of Zantor wield the cutting edge of weaponry and march in only after the most polished of drilling. This does not lead to cheap soldiers, however the High Sovereign would never suffer ill fit soldierly to defend the dominions. Any man deemed fit to serve in the Dominion's soldiers is a worthy warrior indeed. Those picked for the Iron Legions, are truly peerless."
 
  zantor_lords_of_north_and_south:0 "Lords of North and South"
- zantor_lords_of_north_and_south_desc:0 ""
+ zantor_lords_of_north_and_south_desc:0 "Zantor is split between its northern and southern dominions. The North has always been disconnected and hard to control, however with many years of back and forth, the High Sovereign has finally codified administrative processes that will streamline their full integration into the Dominions at large."
  
+ zantor_heirs_of_the_sovreign_prophet:0 "Heirs of The Sovereign Prophet"
+ zantor_heirs_of_the_sovreign_prophet_desc:0 "Zantor is known to some at the "Sovereign Prophet" for his unprecedented acts of religious and temporal reform. Truly there was nor is any man under heaven worthy of interfering with the Sovereignity of Zantor or his dominions."
+
+ zantor_a_dominion_for_every_people:0 "A Dominion for Every People. A People for Every Dominion"
+ zantor_a_dominion_for_every_people_desc:0 "The vast lands of Zantor are often a haven to the refugee, persecuted intelectual and conquered citizen. Many find themselves within the borders of the Dominions fleeing from one persecution or another and yet the Zantori welcome them all in with open arms. For only through the meeting of minds from across the world, may true enlightenment be reached. Those who do not find themselves in Scholarly circles often join the Iron Legions. Foreigners of skill are often granted great freedom in the army once their loyalty is proven. After all, who is more willing to fight for their home, between the noble born and raised, or the man forced to flee and cling to his new home for dear life?"
+
+ zantor_vast_lands_sea_gates:0 "Wooden Highway"
+ zantor_vast_lands_sea_gates_desc:0 "The term "Wooden Highway" has grown in recent years to refer to the rather uncaracteristic manner in which the people of Zantor find their way from one end of the Dominions to another. From the common tradesman to the noble officer, Zantori travel by sea before they dare make the journey between the north and south dominions to each other. In time these regions developed quite distinct cultures from one another. Those of the North Dominion aligning themselves more with the Port of Lavencia, while those of the south with the capital of old. Some even claim the "South Dominion" is in fact a central dominion, as the southern reaches of the Dominions are so full of dense jungle that they have never truly adopted the ways of the Zantori"
+
+ zantor_faith_funded_construction:0 "To Link North and South"
+ zantor_faith_funded_construction_desc:0 "It is one thing to unite an empire, and quite another to bring it together. As the 17th centruy neared its climax, the mood within Zantor grew dire. While the Empire was greater in all respects than it ever had been, if the Sovereign Dominions were ever to truly be as one, they would need to expend great effort to bring these lands closer together in a physical sense. With the Advent of the first steam engines, Zantor finally had its answer. The north and south would be linked by the greatest rail network the world would ever see, or it would collapse from the effort of this monumental task. many claimed that it was this great effort that caused the eventual colonial disunity that would plague the Dominions at their apex. For the so called Western Dominions paid a dear price for projects they would never see themselves and for innovations that would never reach them. Zantor's innovative spirit was losing its soul to the fires of industry."
+
+ zantor_gnostic_authority:0 "Many Sects, One Authority"
+ zantor_gnostic_authority_desc:0 "The Church of the Everlasting Soul has innumerable sects and while Zantori are welcoming to new ideas and new faiths, they are quick to stamp down on heresies, knowing that if any are to spread too fiercely they will surely be doomed to collapse under the weight of different values and morals. Little did they know that it was this very stance that would brand the Sovereigns as tyrants. Once seen as Honorable beacons of progress and egalitarianism, the Dominions would canibalize themselves as brother turned on brother. This would be the last time Zantor would ever be truly whole, but within the Ashes a new Iron Legion made ready for war."
+
  PROV56:0 "Osnabrück"
  PROV_ADJ56:0 "Osnabrück"
  PROV82:0 "Waldeck"

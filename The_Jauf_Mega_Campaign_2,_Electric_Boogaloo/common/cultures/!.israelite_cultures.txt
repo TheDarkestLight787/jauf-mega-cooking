@@ -34,7 +34,7 @@ israelite = {
 	hebrew = { primary = ISR }
 	israeli = { primary = ISR }
 	misrayim = { primary = ISR }
-	zarphatic = { primary = ISR }
+	zarphatic = { primary = Z0M }
 	laaz = {
 		primary = ISR
 		male_names = {

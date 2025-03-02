@@ -21,7 +21,10 @@ gnostic = {
 		#idea_cost = -0.2
 	
 
-		discipline = 0.05
+		#discipline = 0.05
+		max_absolutism_effect = 0.1
+		yearly_absolutism = 1
+		max_absolutism = 0.1
 	
 
 		#heir_chance = 1

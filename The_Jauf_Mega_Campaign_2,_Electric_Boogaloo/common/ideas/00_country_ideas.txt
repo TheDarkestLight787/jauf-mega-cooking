@@ -2498,7 +2498,7 @@ MAM2_ideas = { #Mission reward to double mam_monopoly_ports // see mam_establish
 	}
 	
 	trigger = {
-		tag = MAM
+		tag = Z02
 		has_country_flag = mam_upgrade_national_idea_flag
 	}
 	free = yes
@@ -2539,7 +2539,7 @@ MAM_ideas = {
 	}
 	
 	trigger = {
-		tag = MAM
+		culture = old_egyptian
 		NOT = { has_country_flag = mam_upgrade_national_idea_flag }
 	}
 	free = yes
@@ -2786,7 +2786,7 @@ BYZ_ideas = {
 	}
 	
 	trigger = {
-		tag = BYZ
+		culture = greek
 	}
 	free = yes
 	
@@ -15040,27 +15040,31 @@ BNG_ideas = {
 	}
     free = yes       #will be added at load.
     
-	bng_combat_piracy = {
-		trade_efficiency = 0.1
-	}
-	bng_habshi_generals = {
-		army_tradition = 0.5
-	}
-	bng_clearing_the_delta = {
-		development_cost = -0.1
-	}
-	bng_attract_sufis = {
-		idea_cost = -0.1
-	}
-	bng_conquest_of_the_gangetic_plain = {
-		leader_land_shock = 1
-	}
-	bng_rupees = {
-		global_tax_modifier = 0.1
-	}
-	bng_bengali_industrialization = {
-		global_trade_goods_size_modifier = 0.1
-	}
+	sia_royal_poets = {
+		prestige = 0.5
+		adm_advisor_cost = -0.15
+    }
+    sia_advanced_elephant_warfare = {
+		cavalry_power = 0.15
+		cavalry_fire = 1
+    }
+    sia_experienced_ambassadors = {
+        diplomatic_reputation = 2
+    }
+    sia_encourage_immigration = {
+        development_cost = -0.1
+    }
+    sia_integrating_the_realm = {
+        diplomatic_annexation_cost = -0.15
+        culture_conversion_cost = -0.15
+    }
+    sia_royal_absolutism = {
+        global_autonomy = -0.05
+		yearly_absolutism = 0.5
+    }
+    sia_education_reform = {
+        idea_cost = -0.1
+    }
 }
 
 GUJ_ideas = {
